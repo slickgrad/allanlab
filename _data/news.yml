@@ -1,6 +1,6 @@
 
 - date: 24. May 2019
-  headline: "The smart tip paper <a href='https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf'> </a> A collaboration with the <a href='http://groeblacherlab.tudelft.nl/'>Gröblacher Lab</a> at TU Delft. <img src="{{'/images/newspic/SmartTip.png' | relative_url}}" class='img-responsive' style='max-width: 192px' />"
+  headline: "The smart tip paper <a href='https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf'> </a> A collaboration with the <a href='http://groeblacherlab.tudelft.nl/'>Gröblacher Lab</a> at TU Delft. <img src={{'/path/to/SmartTip.png' | relative_url}} class='img-responsive' style='max-width: 192px' />"
 
 - date: 08. May 2019
   headline: "<b>Irene defends her PhD!</b>"
