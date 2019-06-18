@@ -62,7 +62,7 @@ We are located at Leiden University, the birthplace of superconductivity and hom
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for funding from the University of Kentucky.
+We are grateful for funding from the University of Kentucky and the college of engineering.
 <!-- [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants). -->
 
 <figure class="fourth">
