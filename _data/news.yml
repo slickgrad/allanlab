@@ -1,11 +1,12 @@
 
 - date: 06. Jun 2019
-headline: "Dr. Annamalai will be presenting his work on <b>Macrophage-mediated Release of BMP2 from Bioresponsive Microspheres for Vascularize bone Regeneration</b> in the upcoming <a href='https://www.bmes.org/annualmeeting19'>BMES Conference</a> at Philadelphia."
-image: '/images/newspic/bmes_philly19.jpg'
+  headline: "Dr. Annamalai will be presenting his work on <b>Macrophage-mediated Release of BMP2 from Bioresponsive Microspheres for Vascularize bone Regeneration</b> in the upcoming <a href='https://www.bmes.org/annualmeeting19'>BMES Conference</a> at Philadelphia."
+  image: '/images/newspic/bmes_philly19.jpg'
 
-#- date: 08. May 2019
- # headline: "<b>Irene defends her PhD!</b>"
-
+#- date: 04. May 2019
+ # headline: "Our latest paper on injectable microtissues  <a href='https://www.universiteitleiden.nl/nieuws/2019/05/de-meest-stabiele-microscoop-ter-wereld'>University website</a>."
+  #image: '/images/newspic/Saphireheadline.jpeg'
+  
 #- date: 08. May 2019
  # headline: "Dome makes it on the <a href='https://www.universiteitleiden.nl/nieuws/2019/05/de-meest-stabiele-microscoop-ter-wereld'>University website</a>."
   #image: '/images/newspic/Saphireheadline.jpeg'
