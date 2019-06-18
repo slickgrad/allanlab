@@ -68,6 +68,6 @@ We are grateful for funding from the University of Kentucky.
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/coe2.png" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uk.png" style="width: 110px">
-  <!--<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <!--<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <!--<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px"> -->
+  <!--<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px"> -->
 </figure>
