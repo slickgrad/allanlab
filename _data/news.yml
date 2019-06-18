@@ -7,19 +7,24 @@
   headline: "<b>Irene defends her PhD!</b>"
 
 - date: 08. May 2019
-  headline: "Dome makes it on the <a href='https://www.universiteitleiden.nl/nieuws/2019/05/de-meest-stabiele-microscoop-ter-wereld'>University website</a>. <img src='/ramlab/images/newspic/Saphireheadline.jpeg' class='img-responsive' style='max-width: 192px' />"
+  headline: "Dome makes it on the <a href='https://www.universiteitleiden.nl/nieuws/2019/05/de-meest-stabiele-microscoop-ter-wereld'>University website</a>."
+  image: '/images/newspic/Saphireheadline.jpeg'
 
 - date: 01. January 2019
-  headline: "The inhomogeneous superfluid paper <a href='https://arxiv.org/abs/1901.00149'>is on arXiv</a>. <img src='/images/newspic/SFnews.png' class='img-responsive' style='max-width: 192px' />"
+  headline: "The inhomogeneous superfluid paper <a href='https://arxiv.org/abs/1901.00149'>is on arXiv</a>."
+  image: '/images/newspic/SFnews.png'
 
 - date: 13. December 2018
-  headline: "Our paper about how to construct an STM is in <a href='https://aip.scitation.org/doi/10.1063/1.5064442'>Review of Scientific Instruments</a>. <img src='/images/newspic/DomeNews.png' class='img-responsive' style='max-width: 192px' />"
+  headline: "Our paper about how to construct an STM is in <a href='https://aip.scitation.org/doi/10.1063/1.5064442'>Review of Scientific Instruments</a>."
+  image: '/images/newspic/DomeNews.png'
 
 - date: 08. October 2018
-  headline: "We discovered charge trapping in a high-Tc superconductor! Publication in <a href='https://www.nature.com/articles/s41567-018-0300-z'>Nature Physics</a>. <img src='/images/pubpic/Pub_BCl.png' class='img-responsive' style='max-width: 192px' />"
+  headline: "We discovered charge trapping in a high-Tc superconductor! Publication in <a href='https://www.nature.com/articles/s41567-018-0300-z'>Nature Physics</a>."
+  image: '/images/pubpic/Pub_BCl.png'
 
 - date: 27. September 2018
-  headline: "Our MHz amplifier for STM is published in <a href='https://aip.scitation.org/doi/10.1063/1.5043267'>Review of Scientific Instruments</a>. <img src='/images/newspic/amp.PNG' class='img-responsive' style='max-width: 192px' />"
+  headline: "Our MHz amplifier for STM is published in <a href='https://aip.scitation.org/doi/10.1063/1.5043267'>Review of Scientific Instruments</a>."
+  image: '/images/newspic/amp.PNG'
 
 - date: 16. May 2018
   headline: "Milan, Koen and Irene talk about superconductivity in <a href='https://youtu.be/hxz22AYUGhM'>Made in Leiden</a>."
@@ -71,48 +76,3 @@
 
 - date: 19. September 2016
   headline: "<b> Our first paper from Leiden is <a href='http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html'>online at Nature Physics</a>! </b><img src='/images/newspic/NewsNP.png' class='img-responsive' style='max-width: 192px' /> "
-
-- date: 12. September 2016
-  headline: Koen is at Correl16, Julich.
-
-- date: 01. July 2016
-  headline: Milan is at the strongly correlated electron GRC 2016.
-
-- date: 24. June 2016
-  headline: Felix Baumberger is visiting.
-
-- date: 17. June 2016
-  headline: Irene is at SNS2016.
-
-- date: 28. April 2016
-  headline: <b> Our results on the Mott & pseudo gap physics posted on <a href='http://arxiv.org/abs/1604.08343'>arXiv</a> ! </b>
-
-- date: 14. May 2016
-  headline: Ivan Bozovic is visiting.
-
-- date: 17. March 2016
-  headline: Koen, Irene & Vitaly present a poster at Sun Sailing Science.
-
-- date: 17. Jan 2016
-  headline: "We discover electronic order and pseudogap in a non-cuprate materal! <img src='/images/newspic/order.png' class='img-responsive' style='max-width: 192px' />"
-
-- date: 01. Jan 2016
-  headline: Welcome Vitaly!
-
-- date: 17. June 2015
-  headline: Welcome Kees!
-
-- date: 17. June 2015
-  headline: "Maarten wins the LION image award! Check out his <a href='https://www.physics.leidenuniv.nl/index.php?id=11573&news=757&type=lion&ln=EN'>submission</a>.<img src='/images/newspic/Contest.jpg' class='img-responsive' style='max-width:192px' />"
-
-- date: 17. June 2015
-  headline: "<b> We win a Vidi grant: 800kEUR to invest in science! (<a href='http://www.news.leiden.edu/news-2015/5-vidis-for-leiden-reserachers.html'>Leiden news</a>, <a href='http://www.fom.nl/live/english/news/archives/pressreleases2015/artikel.pag?objectnumber=297954'>FOM news item</a>) </b>"
-
-- date: 01. Sept 2015
-  headline: "Welcome Koen and Maarten: from Master- to PhD-students"
-
-- date: 17. June 2015
-  headline: "We got our commercial STM from <a href='http://www.unisoku.com/'>Unisoku</a>, and we are already busy modifying."
-
-- date: 01. Jan 2015
-  headline: Welcome Irene, Gijsbert & Milan — <b> our lab is officially starting</b>!
