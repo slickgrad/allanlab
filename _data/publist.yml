@@ -1,13 +1,3 @@
-- title: "Bioresponsive Microspheres for On-demand Delivery of Anti-inflammatory Cytokines for Articular Cartilage Repair"
-  image: publist0.jpg
-  description: Here we describe the utility of gelatin microspheres that are responsive to arthritic flares, resulting in on-demand, and spatiotemporally controlled release of anti-inflammatory cytokines for cartilage preservation and repair.
-  authors: Park, Hart, Rolauffs, Stegemann, and Annamalai RT
-  link:
-    url: https://www.biorxiv.org/content/10.1101/636886v1.full
-    display: bioRxiv, 2019: 636886.
-  highlight: 1
-  news2:
-
 - title: "Injectable osteogenic microtissues containing MSCs conformally fill and repair critical-size defects"
   image: publist1.jpg
   description: We present a biomaterials-based strategy combining mesenchymal stromal cells (MSC) with a chitosan-collagen matrix to form modular microtissues designed for delivery through a needle to conformally fill cavital defects. Implantation of microtissues into a calvarial defect in the mouse resulted in complete bridging of the cavity.
@@ -24,7 +14,18 @@
   authors: Annamalai RT, Turner, Carson, Kunkel, Levi and Stegemann
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/29421557
-    display:  Biomaterials, 2018; 161:216-227.
+    display:  Biomaterials, 2018; 161:216-227
+  highlight: 1
+  news2:
+
+
+- title: "Bioresponsive Microspheres for On-demand Delivery of Anti-inflammatory Cytokines for Articular Cartilage Repair"
+  image: publist0.jpg
+  description: Here we describe the utility of gelatin microspheres that are responsive to arthritic flares, resulting in on-demand, and spatiotemporally controlled release of anti-inflammatory cytokines for cartilage preservation and repair.
+  authors: Park, Hart, Rolauffs, Stegemann, and Annamalai RT
+  link:
+    url: https://www.biorxiv.org/content/10.1101/636886v1.full
+    display: bioRxiv, 2019; 636886
   highlight: 1
   news2:
 
@@ -54,8 +55,18 @@
   authors: Annamalai RT, Naik, Prout, Putnam, and Stegemann
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/29536947
-    display: Biomedical Materials, 2018; 13:045005.
+    display: Biomedical Materials, 2018; 13:045005
   highlight: 1
+  news2:
+
+- title: "Multimode ultrasound viscoelastography for interrogation of mechanical properties in heterogeneous biomaterials"
+  image: publist5.jpg
+  description: ""
+  authors: Hong X, Annamalai RT, Kemmerer T, Deng C, Stegemann
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pubmed/29902533
+    display: Biomaterials, 2018; 178:11-22
+  highlight: 0
   news2:
 
 - title: "Collagen Type II enhances chondrogenic differentiation in agarose-based nodular microtissues"
@@ -76,4 +87,24 @@
     url: https://www.ncbi.nlm.nih.gov/pubmed/24465401
     display: PLoS One, 2014; 9(1):e84287
   highlight: 1
+  news2:
+
+- title: "Endothelial sprouting and network formation in collagen- and fibrin-based modular microbeads"
+  image: publist7.jpg
+  description: ""
+  authors: Rioja AY, Annamalai RT, Spencer, Putnam and Stegemann
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pubmed/26481042
+    display: Acta Biomaterialia, 2016; 29:33-41
+  highlight: 0
+  news2:
+
+- title: "Evaluation of salivary cytokines for diagnosis of both trauma-induced and genetic heterotopic ossification"
+  image: publist7.jpg
+  description: ""
+  authors: Sung, Chung, Habbouche, Cholok, Allen, Annamalai RT, Priest, Loder, Li, Stegemann, Kunkel and Levi
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pubmed/28484423
+    display: Front Endocrinol, 2017; 8:74
+  highlight: 0
   news2:
