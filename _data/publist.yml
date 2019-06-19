@@ -24,6 +24,36 @@
   authors: Annamalai RT, Rioja, Putnam and Stegemann
   link:
     url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5830175/
-    display:  ACS Biomaterials, 2016; 2(11):1914-25
+    display: ACS Biomaterials, 2016; 2(11):1914-25
+  highlight: 1
+  news2:
+
+- title: "Transport Analysis of Engineered Liver Tissue Fabricated Using a Capsule-Based, Modular Approach"
+  image: publist4.jpg
+  description: Previously, we demonstrated assembly of a prototype, engineered liver tissue, formed by the fusion of hepatocyte-containing capsules. Here, we analyzed the effects of various controllable system parameters with the aim of predicting the operating limits of our modular tissue in high cell density, perfused cultures.
+  authors: Annamalai RT and Matthew HW
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pubmed/30796550
+    display: Ann Biomed Eng, 2019; 47(5):1223-36
+  highlight: 1
+  news2:
+
+- title: "Biofabrication of injectable fibrin microtissues for minimally-invasive therapies-Application of surfactants"
+  image: publist5.jpg
+  description: Microtissues created from the protein fibrin and containing embedded cells can be used in modular tissue engineering approaches to create larger, hierarchical and complex tissue structures. In this paper we demonstrate an emulsification-based and the beneficial effects of surfactants in reducing microtissue aggregation.
+  authors: Annamalai RT, Naik, Prout, Putnam, and Stegemann
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pubmed/29536947
+    display: Biomedical Materials, 2018; 13:045005.
+  highlight: 1
+  news2:
+
+- title: "Collagen Type II enhances chondrogenic differentiation in agarose-based nodular microtissues"
+  image: publist6.jpg
+  description: Microtissues created from the protein fibrin and containing embedded cells can be used in modular tissue engineering approaches to create larger, hierarchical and complex tissue structures. In this paper we demonstrate an emulsification-based and the beneficial effects of surfactants in reducing microtissue aggregation.
+  authors: Annamalai RT, Mertz, Daley and Stegemann
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pubmed/29536947
+    display: Cytotherapy, 2016; 18(2):263-77
   highlight: 1
   news2:
