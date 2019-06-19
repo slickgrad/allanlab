@@ -55,8 +55,6 @@ We are a new research group at the [Department of Biomedical Engineering](https:
 
 
 
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
-
 **We are looking for energetic and passionate graduate and undergraduate students with chemical engineering, material science, mechanical engineering or biology background to join the team. Please directly contact Ramkumar Annamalai for more information** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
