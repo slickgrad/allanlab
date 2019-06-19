@@ -2,7 +2,7 @@
 
 This is the website of our academic research group at the University of Kentucky.
 
-Credits: This website was adapted from the Allan Lab at Leiden University
+Credits: This website was adapted from the Annamalai Lab at Leiden University
 
 This website is powered by Jekyll and some Bootstrap, Bootwatch.
 
