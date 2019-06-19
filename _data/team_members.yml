@@ -6,18 +6,3 @@
   education1: PhD in Biomedical Engineering (Wayne State University, Detroit)
   education2: Postdoctoral Research Fellow (University of Michigan, Ann Arbor)
   education3: Assistant Research Scientist (University of Michigan, Ann Arbor)
-
-- name: This could be you!
-  photo: rock.jpg
-  info: Assistant Professor (Start date Fall 2019)
-  email: ramkumar.mobile@gmail.com
-:
-#- name: Doohee Cho
-#  photo: Doohee2.jpg
-#  info: Postdoc, started May 2017
-#  email: cho@physics.leidenuniv.nl
-#  number_educ: 4
-#  education1: B.S. Yonsei University, Korea
-#  education2: PhD Yonsei University, Korea with <a href="http://web.yonsei.ac.kr/nano/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C.htm">In-Whan Lyo</a>
-#  education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
-#  education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
