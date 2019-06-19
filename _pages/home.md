@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+We are a new research group at the [Department of Biomedical Engineering](https://www.engr.uky.edu/research-faculty/departments/biomedical-engineering). We are interested in understanding the roles of the immune system in neotissue formation and applying this knowledge to the development of immunomodulatory biomaterials and immunotherapies for musculoskeletal and vascular regeneration. To this end, we study the role of macrophages in heterotrophic ossification (HO) and in various inflammatory conditions to elucidate their regenerative potential. We also develop microengineered biomaterial systems and immunomodulatory strategies to make cellular and molecular therapies useful in treating disease and trauma. Our research span both basic and translational research areas.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -55,11 +55,9 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
 
 
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want do be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
 We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+**We are looking for energetic and passionate graduate and undergraduate students with chemical engineering, material science, mechanical engineering or biology background to join the team. Please directly contact Ramkumar Annamalai for more information** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 We are grateful for funding from the University of Kentucky and the college of engineering.
