@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Annamalai Lab at Leiden University."
 sitemap: false
 permalink: /allnews.html
 ---
@@ -11,4 +11,7 @@ permalink: /allnews.html
 {% for article in site.data.news %}
 <p>{{ article.date }} <br>
 <em>{{ article.headline }}</em></p>
+{% if article.image %}
+<img src="{{ article.image | relative_url }}" class="img-responsive" style="max-width: 192px" />
+{% endif %}
 {% endfor %}

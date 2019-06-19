@@ -1,25 +1,34 @@
 ---
-title: "Allan Lab - Research"
+title: "Annamalai Lab - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Annamala Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+We are interested in understanding the roles of the immune system in neotissue formation and applying this knowledge to the development of immunomodulatory biomaterials and immunotherapies for musculoskeletal and vascular regeneration. 
 
-Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? 
+To this end, we study the role of macrophages in heterotrophic ossification (HO) and in various inflammatory conditions to elucidate their regenerative potential. We also develop microengineered biomaterial systems and immunomodulatory strategies to make cellular and molecular therapies useful in treating disease and trauma. Our research span both basic and translational research areas.
+
+<!--Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? -->
  
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/website2.jpg){: style="width: 450px; float: right; border: 10px"}
 
-Currently, our instrument of choice  is SI-STM.  State-of-the-art SI-STM measures an array of tunneling spectra on a given sample, registered to the atomic sites with picometer precision. Each is proportional to the local density of states at a given location. Ideally, the recorded spectra are so tightly packed that the measurement yields a three-dimensional mapping of the local density of states as a function of locations and energy. This is shown on the image on the right-hand side (10x10 nm2), and its Fourier transform, below.
+### i) Modular strategy for tissue fabrication
+As part of my independent research, I am currently investigating the inflammatory pathways associated with bone regeneration using \textit{in vitro} and mouse heterotopic ossification models. My goal is to elucidate the role of macrophages in physiological and pathological ossification scenarios and harness their potential for developing clinically relevant bone regenerative therapies. Harnessing inflammatory signals to promote endogenous cell recruitment and differentiation has a multitude of advantages over traditional regeneration approaches such as reducing the dependence on exogenous cells and growth factors. Further my approach can avoid common limitations associated with cell-based therapies including poor vascularization and immune rejections. My preliminary work shows that macrophages can be modulated to secrete osteogenic and vasculogenic cytokines and consequently promote endochondral ossification. Currently, I am investigating the mechanisms of macrophage-mediated cell recruitment and subsequent bone formation \textit{in vivo}. My future lab will focus on developing immunotherapies for large and ischemic bone defects by understanding and harnessing the regenerative inflammatory pathways. 
 
-The quantum materials which we will investigate encapsulate some of the great unsolved mysteries of physics. They include high-temperature superconductors, quantum-critical compounds, graphene, and topological electronic matter that can be used for error-resistant quantum computing.
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/website3.jpg){: style="width: 450px; float: right; border: 10px"}
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
+### ii) Enabling technologies for tissue vascularization
+As part of my postdoctoral research, I developed a different vascularization strategy using vasculogenic fibrin microtissues for creating a network of microvessels. The fibrin microtissues are injectable and once delivered within a scaffold or a tissue they generate microvessels with lumen. These microvessels inosculate and form a vessel network resembling a terminal vascular bed. Previously, I created perfusable channels using the modular assembly that are hundreds of microns in diameter and here I formed microvessels that are less than 10 microns in diameter. 
 
-A main goal is to use modern technology to build the new instrumentation needed to understand these quantum materials. I learned my trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where we investigated coupled cavity arrays in circuit QED. This allowed me to learn new techniques such as high frequency measurements, low temperature noise-free amplification, and quantum-limited measurements. The goal is to combine these with SI-STM.
+I am currently studying the contributions of immune cells especially macrophages in vessel formation both in vitro and in vivo. Macrophages play a critical role in tip cell migration and anastomosis. My preliminary studies show enhanced endothelial sprouting in the presence of macrophages. Further, under certain stimulatory conditions, macrophages are found to secrete vasculogenic cytokines including VEGF-A and PDGF. Using gene and protein arrays, I have investigated and identified phenotypic states of macrophages that can be harnessed for vascularization of tissue constructs and as potential targets for tumor suppression. My future research will shed light on such immune contributions to physiological and pathological vascularization to engineer material-based therapies for vascular diseases.
 
-This will enable the instrumental capabilities to visualize the different quantum mechanical degrees of freedom needed to understand next-generation quantum materials. STM will be the main method, but we use different spectroscopic-imaging techniques to visualize not only the topography, but also the density of states, spins, and other degrees of freedom hidden below the surface.
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/website5.jpg){: style="width: 450px; float: right; border: 10px"}
+
+### iii) Immunomodulation and immunoengineering
+Macrophages and neutrophils infiltrate tissues swiftly after an injury or infection. Their invasiveness is mainly steered by their secretion of MMPs \cite{RN3039}. My recently published work showed that the material properties (\textbf{Fig.3A}) could be tuned to deliver growth factors in a spatiotemporally controlled manner by synchronizing their response with the local inflammatory milieu \cite{RN2802}. Such ‘smart’ delivery vehicles are useful for targeted delivery of drugs and growth factors for healing recalcitrant wounds and inflammation-driven ailments. These ‘smart’ delivery vehicles can titrate the drug release to synchronize with the inflammatory response resulting in optimal therapeutic efficacy. This can reduce the washout of drugs during periods of low disease activity and hence prolong their therapeutic effect. Part of my future plan is to develop a flare-responsive ‘smart’ delivery system for inflammatory arthritis and osteoarthritis (OA) (\textbf{Fig.3B}). My approach will tailor the chemistry of the microparticles to take advantage of the proteases-rich inflammatory milieu for the spatiotemporally controlled release of the loaded drugs.
+
+
