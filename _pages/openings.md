@@ -10,7 +10,7 @@ permalink: /vacancies
 
 ### **We are always looking for new group members with passion, talent, and grit!**
 
-You will have the opportunity to work on the grand challenges of tissue fabrication, biomaterials engineering, immunomodulation, and immuno-engineering. You will be engaged in determining the essential and exciting questions, designing and executing experiments, performing assays, and making discoveries.
+You will have the opportunity to work on the grand challenges of tissue fabrication, biomaterials engineering, immunomodulation, and immuno-engineering. We will also be collaborating with faculties at the medical school in understanding the role of inflammation in cardiovascular diseases and cancer and in developing suitable therapies. You will be engaged in determining the essential and exciting questions, designing and executing experiments, performing assays, and making discoveries.
 
 
 ### Prospective Graduate Students and Postdocs

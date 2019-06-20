@@ -53,9 +53,7 @@ We are a new research group at the [Department of Biomedical Engineering](https:
 </div>
 
 
-
-
-**We are looking for energetic and passionate graduate and undergraduate students with background in chemical engineering, material science, mechanical engineering or biology to join our team. Please directly contact Ramkumar Annamalai for more information** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+**I am looking for energetic and passionate graduate and undergraduate students with chemical engineering, material science, mechanical engineering or biology background to join the team. Please directly [email](mailto:ramta@umich.edu) Dr. Ramkumar Annamalai for more information** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies).
 
 
 We are grateful for funding from the College of Engineering and the Biomedical Engineering at the University of Kentucky.
