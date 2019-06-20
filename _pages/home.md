@@ -55,16 +55,16 @@ We are a new research group at the [Department of Biomedical Engineering](https:
 
 
 
-**We are looking for energetic and passionate graduate and undergraduate students with chemical engineering, material science, mechanical engineering or biology background to join the team. Please directly contact Ramkumar Annamalai for more information** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+**We are looking for energetic and passionate graduate and undergraduate students with background in chemical engineering, material science, mechanical engineering or biology to join our team. Please directly contact Ramkumar Annamalai for more information** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for funding from the University of Kentucky and the college of engineering.
+We are grateful for funding from the College of Engineering and the Biomedical Engineering at the University of Kentucky.
 <!-- [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants). -->
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uk.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/coe2.png" style="width: 210px">
-  
+
   <!--<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px"> -->
   <!--<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px"> -->
 </figure>
