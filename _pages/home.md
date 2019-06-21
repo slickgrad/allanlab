@@ -1,7 +1,7 @@
 ---
-title: "Annamalai Lab - Home"
+title: "BITE Lab - Home"
 layout: homelay
-excerpt: "Annamalai Lab at the University of Kentucky."
+excerpt: "BITE Lab at the University of Kentucky."
 sitemap: false
 permalink: /
 ---

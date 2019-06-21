@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Annamalai Lab at Leiden University."
+excerpt: "BITE Lab at the University of Kentucky."
 sitemap: false
 permalink: /allnews.html
 ---
