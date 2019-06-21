@@ -6,8 +6,11 @@ sitemap: false
 permalink: /
 ---
 
-We are a new research group at the [Department of Biomedical Engineering](https://www.engr.uky.edu/research-faculty/departments/biomedical-engineering). We are interested in understanding the roles of the immune system in neotissue formation and applying this knowledge to the development of immunomodulatory biomaterials and immunotherapies for musculoskeletal and vascular regeneration. To this end, we study the role of macrophages in heterotrophic ossification (HO) and in various inflammatory conditions to elucidate their regenerative potential. We also develop microengineered biomaterial systems and immunomodulatory strategies to make cellular and molecular therapies useful in treating disease and trauma. Our research span both basic and translational research areas.
+&nbsp;
 
+**Welcome to Biomaterials, Inflammation, and Tissue Engineering (BITE) Lab**
+
+We are a new research group at the [Department of Biomedical Engineering](https://www.engr.uky.edu/research-faculty/departments/biomedical-engineering). We are interested in understanding the roles of the immune system in neotissue formation and applying this knowledge to the development of immunomodulatory biomaterials and immunotherapies for musculoskeletal and vascular regeneration. To this end, we study the role of macrophages in heterotrophic ossification (HO) and in various inflammatory conditions to elucidate their regenerative potential. We also develop microengineered biomaterial systems and immunomodulatory strategies to make cellular and molecular therapies useful in treating disease and trauma. Our research span both basic and translational research areas.&nbsp;
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -54,14 +57,10 @@ We are a new research group at the [Department of Biomedical Engineering](https:
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-</div>
+</div>&nbsp;
+**We are looking for energetic and passionate graduate and undergraduate students with chemical engineering, material science, mechanical engineering or biology background to join the team. Please directly [email](mailto:ramta@umich.edu) Dr. Ramkumar Annamalai for more information** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies).&nbsp;
 
-
-**I am looking for energetic and passionate graduate and undergraduate students with chemical engineering, material science, mechanical engineering or biology background to join the team. Please directly [email](mailto:ramta@umich.edu) Dr. Ramkumar Annamalai for more information** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies).
-
-
-We are grateful for funding from the College of Engineering and the Biomedical Engineering at the University of Kentucky.
-<!-- [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants). -->
+We are grateful for funding from the College of Engineering and the Biomedical Engineering at the University of Kentucky.&nbsp;
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uk.png" style="width: 110px">
