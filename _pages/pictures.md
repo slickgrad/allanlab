@@ -9,7 +9,7 @@ permalink: /pictures/
 
 ## @ UMich
 <!--Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)-->
-(Right-click *'view image'* to see a larger image.)
+(Right-click *'view image'*  or *'open image in a new tab'* to see a larger image.)
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}
 

@@ -12,6 +12,8 @@ permalink: /
 
 We are a new research group at the [Department of Biomedical Engineering](https://www.engr.uky.edu/research-faculty/departments/biomedical-engineering). We are interested in understanding the roles of the immune system in neotissue formation and applying this knowledge to the development of immunomodulatory biomaterials and immunotherapies for musculoskeletal and vascular regeneration. To this end, we study the role of macrophages in heterotrophic ossification (HO) and in various inflammatory conditions to elucidate their regenerative potential. We also develop microengineered biomaterial systems and immunomodulatory strategies to make cellular and molecular therapies useful in treating disease and trauma. Our research span both basic and translational research areas.&nbsp;
 
+Our team will also be collaborating with faculties at the medical school in understanding the role of inflammation in cardiovascular diseases and cancer and in developing suitable therapies.
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
