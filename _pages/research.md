@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
+# **Research**
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our lab is broadly focused on tissue regeneration and vascularization using biomaterials and biofabrication strategies. The lab employs an array of biomaterial, mammalian cell culture techniques, and animals models to develop translatable strategies. Specific areas of interests include:<br/>
@@ -17,7 +17,7 @@ permalink: /research/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4)	Developing bioresponsive drug-delivery vehicles<br/>
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/website2.jpg){: style="width: 450px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/website2.jpg){: style="width: 450px; float: right; border: 0px"}
 
 #### **i) Harnessing inflammatory regenerative pathways for bone regeneration**
 
@@ -25,7 +25,7 @@ permalink: /research/
 
 Harnessing inflammatory signals to promote endogenous cell recruitment and differentiation has a multitude of advantages over traditional regeneration approaches such as reducing the dependence on exogenous cells and growth factors. Further, our approach can avoid common limitations associated with cell-based therapies, including poor vascularization and immune rejections. Our preliminary work shows that macrophages can be modulated to secrete osteogenic and vasculogenic cytokines and consequently promote endochondral ossification.
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/website3.jpg){: style="width: 450px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/website3.jpg){: style="width: 450px; float: right; border: 0px"}
 
 #### **ii) Enabling technologies for tissue vascularization**
 

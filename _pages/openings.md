@@ -6,14 +6,14 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# Open positions
+# **Open positions**
 
-### ***We are always looking for new group members with passion, talent, and grit!***
+#### **We are always looking for new group members with passion, talent, and grit!**
 
-You will have the opportunity to work on the grand challenges of tissue fabrication, biomaterials engineering, immunomodulation, and immuno-engineering. Our lab will also be collaborating with faculties at the medical school in understanding the role of inflammation in cardiovascular diseases and cancer and in developing suitable therapies. You will be engaged in determining the essential and exciting questions, designing and executing experiments, performing assays, and making discoveries.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You will have the opportunity to work on the grand challenges of tissue fabrication, biomaterials engineering, immunomodulation, and immuno-engineering. Our lab will also be collaborating with faculties at the medical school in understanding the role of inflammation in cardiovascular diseases and cancer and in developing suitable therapies. You will be engaged in determining the essential and exciting questions, designing and executing experiments, performing assays, and making discoveries.
 
-### ***Prospective Graduate Students and Postdocs***
-If you are interested in working with us as a PhD student or Postdoctoral fellow, please send me an [email](mailto:ramkumar.uky@gmail.com). Briefly, mention why you are interested in this position and attach a CV, with your graduate and undergraduate grades. No need for a separate cover letter or certificates. Please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are a Master student at the University of Kentucky looking for a Master thesis project, email me or stop by my office. Women and underrepresented minorities are encouraged to apply.
+### **i) Prospective Graduate Students and Postdocs**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you are interested in working with us as a PhD student or Postdoctoral fellow, please send me an [email](mailto:ramkumar.uky@gmail.com). Briefly, mention why you are interested in this position and attach a CV, with your graduate and undergraduate grades. No need for a separate cover letter or certificates. Please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are a Master student at the University of Kentucky looking for a Master thesis project, email me or stop by my office. Women and underrepresented minorities are encouraged to apply.
 
 #### ***Scientific Fit***
 My lab is broadly focused on musculoskeletal tissue regeneration and vascularization through material based strategies. To this end, we develop injectable biomaterial systems, immunomodulatory strategies, and fabrication methods to regenerate tissues and organs. We also study the roles of immune cells, mainly macrophages in physiological and pathological conditions to elucidate their regenerative potential. Our research span both basic and translational research areas. The lab employs an array of biomaterial, mammalian cell culture techniques, and animals models to develop translatable strategies. If your research interest falls in this general description, please familiarize yourself with ongoing projects in the lab as well as our recent publications.
@@ -24,8 +24,8 @@ Choosing the right graduate advisor is critical for success in graduate school. 
 #### ***Financial Support***
 We have two positions with graduate research assistantships available for students starting Fall 2019. The PhD students will also have the opportunity to apply for Halcomb Fellowship that supports students working on projects integrating engineering and medicine cohesively to benefit the BME field and patients. More information about Halcomb Fellowship can be found in the [link](https://research.med.uky.edu/news/applications-accepted-halcomb-fellowship-medicine-and-engineering).
 
-### ***Prospective Undergraduate / Exchange students***
-Our lab welcomes undergrads interested in gaining research experience while at the University of Kentucky. Preferences will be given to students with good grades, work ethic, ability to commit at least 10 hours/week to research, and 2+ semester in the lab. If you are an international student interested in participating in the student exchange program at the University of Kentucky, please visit [NSE website](https://nse.org/exchange/campus-profile/104/). We also take summer interns if we get exceptional applicants (this usually means excellent grades and a personal recommendation).
+### **ii) Prospective Undergraduate / Exchange students**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our lab welcomes undergrads interested in gaining research experience while at the University of Kentucky. Preferences will be given to students with good grades, work ethic, ability to commit at least 10 hours/week to research, and 2+ semester in the lab. If you are an international student interested in participating in the student exchange program at the University of Kentucky, please visit [NSE website](https://nse.org/exchange/campus-profile/104/). We also take summer interns if we get exceptional applicants (this usually means excellent grades and a personal recommendation).
 
 
 

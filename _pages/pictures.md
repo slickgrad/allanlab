@@ -5,7 +5,7 @@ excerpt: "Annamalai Lab -- Pictures"
 permalink: /pictures/
 ---
 
-# Pictures
+# **Pictures**
 
 ## @ UMich
 <!--Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)-->
