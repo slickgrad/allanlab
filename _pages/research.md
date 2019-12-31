@@ -1,7 +1,7 @@
 ---
 title: "Annamalai Lab - Research"
 layout: textlay
-excerpt: "Annamala Lab -- Research"
+excerpt: "Annamalai Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
