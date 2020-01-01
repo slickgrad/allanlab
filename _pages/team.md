@@ -178,6 +178,7 @@ permalink: /team/
 <table align="center" style="width:100%">
  <tr>
     <th>Undergraduate Students</th>
+    <th>Graduate Students</th>
       </tr>
   <tr>
     <td>Alec Gongaware, Fall 2019</td>
@@ -189,7 +190,9 @@ permalink: /team/
         <td>Becca Palmer-Ball, Fall 2019</td>
       </tr>
   <tr>
-        <td>O dinakachi Obidegwu, Fall 2019</td>
+        <td>Odinakachi Obidegwu, Fall 2019</td>
+  </tr>
+  <tr>
   </tr>
   </table>
 
