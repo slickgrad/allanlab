@@ -177,19 +177,13 @@ permalink: /team/
 
 <table align="center" style="width:100%">
  <tr>
-    <th>Visitors</th>
-    <th>Master Students</th>
-    <th>Bachelor Students</th>
-  </tr>
+    <th>Undergraduate Students</th>
+      </tr>
   <tr>
-    <td>Nikolaos Iliopoulos, Spring 2016</td>
-    <td>Bert Visscher, Fall 2017</td>
-    <td>Vishnu Saj, Spring 2017</td>
-  </tr>
-  <tr>
-    <td>Vitaly Fedoseev, all of 2016</td>
-    <td>Ahmad Jamalzada, Fall 2017</td>
-    <td>Joey Braspenning, Spring 2017</td>
+    <td>Alec Gongaware, Fall 2019</td>
+    <td>Laura Richardson, Fall 2019</td>
+    <td>Becca Palmer-Ball, Fall 2019</td>
+    <td>Becca Palmer-Ball, Fall 2019</td>
   </tr>
   </table>
 
