@@ -191,37 +191,8 @@ permalink: /team/
     <td>Ahmad Jamalzada, Fall 2017</td>
     <td>Joey Braspenning, Spring 2017</td>
   </tr>
-  <tr>
-    <td>Ramakrishna Aluru, Summer 2018</td>
-    <td>Tjerk Benschop, Summer 2017</td>
-    <td>Margot Leemker, Spring 2017</td>
-  </tr>
-  <tr>
-    <td>Changwei Zou, Spring 2018</td>
-    <td>Oliver Ostojic, Spring 2016</td>
-    <td>Sietske Lensen, Spring 2017</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Farshaad Hoeseni, Fall 2015</td>
-    <td>Alexander Vanstone, Spring 2016</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>Tjerk Benschop, Spring 2016</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>Arjo Andringa, Spring 2016</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>Daniëlle van Klink, Spring 2016</td>
-  </tr>
-</table>
+  </table>
 
+<!--
 ## Administrative Support
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration. -->
