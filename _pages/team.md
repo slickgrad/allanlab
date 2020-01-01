@@ -181,9 +181,15 @@ permalink: /team/
       </tr>
   <tr>
     <td>Alec Gongaware, Fall 2019</td>
-    <td>Laura Richardson, Fall 2019</td>
-    <td>Becca Palmer-Ball, Fall 2019</td>
-    <td>Becca Palmer-Ball, Fall 2019</td>
+      </tr>
+  <tr>
+        <td>Laura Richardson, Fall 2019</td>
+      </tr>
+  <tr>
+        <td>Becca Palmer-Ball, Fall 2019</td>
+      </tr>
+  <tr>
+        <td>O dinakachi Obidegwu, Fall 2019</td>
   </tr>
   </table>
 
