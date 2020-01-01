@@ -51,7 +51,7 @@ Our team will also be collaborating with faculties at the medical school in unde
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/website4.jpg" alt="Slide 7" />
           </div>
         <div class="item">
-              <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/website8.jpg" alt="Slide 7" />
+              <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/website8.jpg" alt="Slide 8" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
