@@ -1,4 +1,4 @@
-I"c<h1 id="group-members"><strong>Group Members</strong></h1>
+I"�<h1 id="group-members"><strong>Group Members</strong></h1>
 
 <p><!--**We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)](http://localhost:4000/ramlab/vacancies) **!** --></p>
 
@@ -33,7 +33,7 @@
 
 </div>
 
-<h2 id="graduate-and-undergraduate-students">Graduate and Undergraduate Students</h2>
+<h2 id="graduate-students">Graduate Students</h2>
 
 <div class="row">
 
@@ -41,6 +41,48 @@
     <p><img src="http://localhost:4000/ramlab/images/teampic/parto.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Parto Babania</h4>
     <p><i>My research is focused on harnessing the immune cells for tissue regeneration and drug development. Specifically I am interested in finding cure for diseases such as Alzheimer’s and cancer using our strategy. I am also interested in mystical literature, psychology and philosophy. I work on my novel in my free time and hope to publish it some day.<br />email: <a href="mailto:parto.babania@uky.edu">parto.babania@uky.edu</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/ramlab/images/teampic/harshini.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Harshini Sureshkumar</h4>
+    <p><i>I have a Bachelors and Master degree in Biotechnology and my research interest is on Therapeutic and Translational research focusing on Biomaterial systems and Immunomodulatory strategies. I have always believed that the facets of Biotechnology are gateways to contribute to society. My hobbies include travelling, DIY art work, movies and reading.<br />email: <a href="mailto:Harshini.suresh@uky.edu">Harshini.suresh@uky.edu</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/ramlab/images/teampic/matt.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Matthew Patrick</h4>
+    <p><i>I have a BS in Biology and minor in Physics from the University of Kentucky. I’m interested in biomaterial and medical research. I volunteered as a K-crew member and was a part of the UK Ecology club. I like playing music, watching movies, and being active.<br />email: <a href="mailto:Matthew.Patrick@uky.edu">Matthew.Patrick@uky.edu</a></i></p>
     <ul style="overflow: hidden">
 
   
@@ -98,49 +140,9 @@
   </ul>
   </div>
 
-  <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/ramlab/images/teampic/matt.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Matthew Patrick</h4>
-    <p><i><br />email: <a href="mailto:Matthew.Patrick@uky.edu">Matthew.Patrick@uky.edu</a></i></p>
-    <ul style="overflow: hidden">
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  </ul>
-  </div>
-
 </div>
 
-<div class="row">
-
-  <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/ramlab/images/teampic/harshini.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Harshini Sureshkumar</h4>
-    <p><i><br />email: <a href="mailto:Harshini.suresh@uky.edu">Harshini.suresh@uky.edu</a></i></p>
-    <ul style="overflow: hidden">
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  </ul>
-  </div>
-
-</div>
+<h2 id="undergraduate-students">Undergraduate Students</h2>
 
 <h2 id="alumni">Alumni</h2>
 
