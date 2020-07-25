@@ -240,10 +240,13 @@ permalink: /team/
 
 <table align="center" style="width:100%">
  <tr>
-    <th>Undergraduate Students</th>
+    <th>Undergraduate Students (Year Graduated)</th>
     <th>Graduate Students</th>
       </tr>
-  <tr>
+<tr>
+      <td>Amanda Holbrook, Spring 2020</td>
+</tr>
+<tr>
     <td>Alec Gongaware, Fall 2019</td>
       </tr>
   <tr>
@@ -255,6 +258,7 @@ permalink: /team/
   <tr>
         <td>Odinakachi Obidegwu, Fall 2019</td>
   </tr>
+
   <tr>
   </tr>
   </table>
