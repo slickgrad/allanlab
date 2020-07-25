@@ -1,15 +1,9 @@
 ---
-title: "Annamalai Lab - AOA"
+title: "The Bioethics Forum"
 layout: textlay
-excerpt: "AOA"
+excerpt: "TBF"
 sitemap: false
-permalink: /aoa.html
+permalink: /bioethics/html
 ---
 
 # Calendar
-
-Every Tuesday at 9:30 in HL124.
-
-05.09.2017 Aarts
-
-dfghjkl
