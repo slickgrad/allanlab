@@ -7,7 +7,7 @@ permalink: /pictures/
 
 # **Pictures**
 
-## @ UMich
+<!-- ## @ UMich
 <!--Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)-->
 (Right-click *'view image'*  or *'open image in a new tab'* to see a larger image.)
 {% assign number_printed = 0 %}
