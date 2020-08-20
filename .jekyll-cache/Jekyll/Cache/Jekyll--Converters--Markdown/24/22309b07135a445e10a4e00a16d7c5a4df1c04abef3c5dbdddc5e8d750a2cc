@@ -1,0 +1,34 @@
+I"t<h2 id="highlights">Highlights</h2>
+
+<!--(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012)) -->
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <biotit>A Discussion on Race and Inequality</biotit>
+      <p><img src="http://localhost:4000/ramlab/images/bioethics/1race.jpg" class="img-responsive" width="40%" style="float: left" /></p>
+      <p></p>
+      <p><em></em></p>
+      <p><strong><a href=""></a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <biotit>Pandemic - A Discussion on Rights and Responsibilities</biotit>
+      <p><img src="http://localhost:4000/ramlab/images/bioethics/2covid.jpg" class="img-responsive" width="40%" style="float: left" /></p>
+      <p></p>
+      <p><em></em></p>
+      <p><strong><a href=""></a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<p>   </p>
+:ET
