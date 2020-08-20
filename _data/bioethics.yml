@@ -3,8 +3,8 @@
   image: 1race.jpg
   description:
   authors:
-  link: Postdoc_2019_v01.pdf
-  url:
+  link: [Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf)
+  url: Questions
     display:
   highlight: 1
   news2:
