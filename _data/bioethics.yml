@@ -4,7 +4,7 @@
   description:
   authors:
   link: [Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf)
-  url: Questions
+  url: [Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf)
     display: Questions
   highlight: 1
   news2:
