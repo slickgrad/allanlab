@@ -28,7 +28,7 @@ permalink: /bioethics.html
   <img src="{{ site.url }}{{ site.baseurl }}/images/bioethics/{{ bioe.image }}" class="img-responsive" width="40%" style="float: left" />
   <p>{{ bioe.description }}</p>
   <p><em>{{ bioe.authors }}</em></p>
-  <p><strong><a href="{{ bioe.link.url }}">{{ bioe.link.display }}</a></strong></p>
+  <p><strong><a href="{{bioe.link.url}}">{{ bioe.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ bioe.news1 }}</strong></p>
   <p> {{ bioe.news2 }}</p>
  </div>
