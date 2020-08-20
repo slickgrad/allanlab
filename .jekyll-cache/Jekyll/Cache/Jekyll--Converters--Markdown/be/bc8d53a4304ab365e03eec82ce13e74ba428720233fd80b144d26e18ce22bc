@@ -1,4 +1,4 @@
-I"�<h1 id="group-members"><strong>Group Members</strong></h1>
+I"�<h1 id="group-members"><strong>Group Members</strong></h1>
 
 <p><!--**We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)](http://localhost:4000/ramlab/vacancies) **!** --></p>
 
@@ -57,7 +57,7 @@
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/ramlab/images/teampic/harshini.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/ramlab/images/teampic/harshini2.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Harshini Sureshkumar</h4>
     <p><i>I have a Bachelors and Master degree in Biotechnology and my research interest is on Therapeutic and Translational research focusing on Biomaterial systems and Immunomodulatory strategies. I have always believed that the facets of Biotechnology are gateways to contribute to society. My hobbies include travelling, DIY art work, movies and reading.<br />email: <a href="mailto:Harshini.suresh@uky.edu">Harshini.suresh@uky.edu</a></i></p>
     <ul style="overflow: hidden">
@@ -83,6 +83,25 @@
     <p><img src="http://localhost:4000/ramlab/images/teampic/matt2.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Matthew Patrick</h4>
     <p><i>I have a BS in Biology and minor in Physics from the University of Kentucky. I’m interested in biomaterial and medical research. I volunteered as a K-crew member and was a part of the UK Ecology club. I like playing music, watching movies, and being active.<br />email: <a href="mailto:Matthew.Patrick@uky.edu">Matthew.Patrick@uky.edu</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/ramlab/images/teampic/edwina1.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Edwina Barnett</h4>
+    <p><i>Edwina has a BS in Biology and the recipient of the 2020 NSF Bridge to the Doctorate Fellowship at the University of Kentucky. She will be working on engineering biomaterial-based therapies for tissue regeneration and wound healing.<br />email: <a href="mailto:Edwina.Barnett@uky.edu">Edwina.Barnett@uky.edu</a></i></p>
     <ul style="overflow: hidden">
 
   
@@ -124,29 +143,6 @@
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/ramlab/images/teampic/amandahol.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Amanda Holbrook</h4>
-    <p><i>I am a senior currently pursuing a B.S. in chemical engineering. I am interested in biomedical engineering as a career path, particularly in research that could help stroke victims, and am excited to learn more about the field in the coming year. At UK, I am an officer of the UK backpacking club. In my free time, I enjoy hiking, traveling, and doing puzzles.<br />email: <a href="mailto:amanda.hobrook@uky.edu">amanda.hobrook@uky.edu</a></i></p>
-    <ul style="overflow: hidden">
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  </ul>
-  </div>
-
-</div>
-
-<div class="row">
-
-  <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/ramlab/images/teampic/lauryn2.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Lauryn Humphreys</h4>
     <p><i>I am a freshman currently pursuing a B.S in chemical engineering on a pre-med track. At the University of Kentucky, I am an active member of Alpha Chi Omega and Society of Women Engineers (SWE). My research interests fall primarily in the biomedical field. Additionally, I am a UK Engineering Scholar. In my free time, I enjoy spending time with my friends and writing.<br />email: <a href="mailto:Lauryn.Humphreys@uky.edu">Lauryn.Humphreys@uky.edu</a></i></p>
@@ -171,10 +167,13 @@
 
 <table align="center" style="width:100%">
  <tr>
-    <th>Undergraduate Students</th>
+    <th>Undergraduate Students (Year Graduated)</th>
     <th>Graduate Students</th>
       </tr>
-  <tr>
+<tr>
+      <td>Amanda Holbrook, Spring 2020</td>
+</tr>
+<tr>
     <td>Alec Gongaware, Fall 2019</td>
       </tr>
   <tr>
@@ -186,6 +185,7 @@
   <tr>
         <td>Odinakachi Obidegwu, Fall 2019</td>
   </tr>
+
   <tr>
   </tr>
   </table>
