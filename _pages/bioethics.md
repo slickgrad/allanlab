@@ -49,14 +49,3 @@ permalink: /bioethics.html
 {% endif %}
 
 <p> &nbsp; </p>
-
-
-## Full List
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-9880-3973" href="https://orcid.org/0000-0002-9880-3973" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-9880-3973</a>
-</div>
-{% for publi in site.data.bioethics %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
