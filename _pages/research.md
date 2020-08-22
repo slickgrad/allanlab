@@ -25,7 +25,7 @@ permalink: /research/
 
 Harnessing inflammatory signals to promote endogenous cell recruitment and differentiation has a multitude of advantages over traditional regeneration approaches such as reducing the dependence on exogenous cells and growth factors. Further, our approach can avoid common limitations associated with cell-based therapies, including poor vascularization and immune rejections. Our preliminary work shows that macrophages can be modulated to secrete osteogenic and vasculogenic cytokines and consequently promote endochondral ossification.
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/website3.jpg){: style="width: 450px; float: right; border: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/website9.jpg){: style="width: 450px; float: right; border: 0px"}
 
 #### **ii) Enabling technologies for tissue vascularization**
 
