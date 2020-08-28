@@ -244,6 +244,9 @@ permalink: /team/
     <th>Graduate Students</th>
       </tr>
 <tr>
+      <td>Lauryn Humphreys, Spring 2020</td>
+</tr>
+<tr>
       <td>Amanda Holbrook, Spring 2020</td>
 </tr>
 <tr>
