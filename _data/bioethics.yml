@@ -1,11 +1,10 @@
-
 - title: "A Discussion on Race and Inequality"
   image: 1race.jpg
   description:
   authors:
-  link: [Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf)
-  url: [Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf)
-    display: Questions
+  link:
+  url:
+    display:
   highlight: 1
   news2:
 
