@@ -1,8 +1,3 @@
-- name: Parto Babania
-  photo: parto2.jpg
-  info: My research is focused on harnessing the immune cells for tissue regeneration and drug development. Specifically I am interested in finding cure for diseases such as Alzheimer's and cancer using our strategy. I am also interested in mystical literature, psychology and philosophy. I work on my novel in my free time and hope to publish it some day.
-  email: parto.babania@uky.edu
-
 - name: Harshini Sureshkumar
   photo: harshini2.jpg
   info: I have a Bachelors and Master degree in Biotechnology and my research interest is on Therapeutic and Translational research focusing on Biomaterial systems and Immunomodulatory strategies. I have always believed that the facets of Biotechnology are gateways to contribute to society. My hobbies include travelling, DIY art work, movies and reading.
@@ -17,3 +12,8 @@
   photo: edwina1.jpeg
   info: Edwina has a BS in Biology and the recipient of the 2020 NSF Bridge to the Doctorate Fellowship at the University of Kentucky. She will be working on engineering biomaterial-based therapies for tissue regeneration and wound healing.
   email: Edwina.Barnett@uky.edu
+
+#  - name: Parto Babania
+#    photo: parto2.jpg
+#    info: My research is focused on harnessing the immune cells for tissue regeneration and drug development. Specifically I am interested in finding cure for diseases such as Alzheimer's and cancer using our strategy. I am also interested in mystical literature, psychology and philosophy. I work on my novel in my free time and hope to publish it some day.
+#    email: parto.babania@uky.edu
