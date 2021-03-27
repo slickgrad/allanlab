@@ -12,7 +12,7 @@ permalink: /
 
 We are a passionate research group at the [F. Joseph Halcomb III, M.D. Department of Biomedical Engineering](https://www.engr.uky.edu/research-faculty/departments/biomedical-engineering). We are interested in understanding the mechanobiology of the immune cells and immunomodulatory cells in neotissue formation and tissue repair and applying this knowledge to the development of regenerative therapies. To this end, we study the role of macrophages and mesenchymal stromal cells in bone fracture healing and pathological conditions to elucidate their regenerative potential. My lab also develops microengineered material systems and immunomodulatory biomaterials for promoting tissue regeneration and wound healing. Our research span both basic and translational research areas.&nbsp;
 
-Our team collaborates with leading experts at the colleges of Medicine, Arts and Sciences, Pharmacy, Engineering, and Dentistry in understanding various aspects of inflammation in diseases and in developing suitable therapies.
+Our team collaborates with leading experts at the colleges of Medicine, Arts and Sciences, Pharmacy, Engineering, and Dentistry in understanding various aspects of inflammation in diseases and in developing suitable immunomodulatory therapies.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
