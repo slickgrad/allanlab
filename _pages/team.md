@@ -250,6 +250,9 @@ permalink: /team/
       <td>Amanda Holbrook, Spring 2020</td>
 </tr>
 <tr>
+    <td>Jeremy Keys, Fall 2019</td>
+      </tr>
+<tr>
     <td>Alec Gongaware, Fall 2019</td>
       </tr>
   <tr>
