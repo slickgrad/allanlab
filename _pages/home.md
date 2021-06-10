@@ -76,7 +76,7 @@ Our team collaborates with leading experts at the colleges of Medicine, Arts and
 </div>&nbsp;
 **We are looking for energetic and passionate graduate and undergraduate students with chemical engineering, material science, mechanical engineering or biology background to join the team. Please directly [email](mailto:Ram.kumar@uky.edu) Dr. Ramkumar Annamalai for more information** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies).&nbsp;
 
-We are grateful for funding from the College of Engineering and the Biomedical Engineering at the University of Kentucky.&nbsp;
+We are grateful for funding from the College of Engineering and the Biomedical Engineering at UK, Centre for Pharmaceutical Research and Innovation at UK, and National Institute of Health (NIGMS).&nbsp;
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/coe2.jpg" style="width: 210px">
