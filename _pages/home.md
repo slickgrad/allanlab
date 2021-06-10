@@ -79,8 +79,8 @@ Our team collaborates with leading experts at the colleges of Medicine, Arts and
 We are grateful for funding from the College of Engineering and the Biomedical Engineering at the University of Kentucky.&nbsp;
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uk.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/coe2.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/coe2.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NIGMS.jpg" style="width: 210px">
 
   <!--<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px"> -->
   <!--<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px"> -->
