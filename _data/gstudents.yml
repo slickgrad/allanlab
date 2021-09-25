@@ -8,10 +8,14 @@
   info: I have a BS in Biology and minor in Physics from the University of Kentucky. I’m interested in biomaterial and medical research. I volunteered as a K-crew member and was a part of the UK Ecology club. I like playing music, watching movies, and being active.
   email: Matthew.Patrick@uky.edu
 
-- name: Edwina Barnett
-  photo: Edwina_3.jpg
-  info: Edwina has a BS in Biology and the recipient of the 2020 NSF Bridge to the Doctorate Fellowship at the University of Kentucky. She will be working on engineering biomaterial-based therapies for tissue regeneration and wound healing.
-  email: Edwina.Barnett@uky.edu
+- name: Zeinab Tashi
+  photo: Zienab.PNG
+  info: Zeinab has a MS in Biomaterials from Iranian University. She is working on engineering biomaterials with defined biophysical cues for immunomodulation and cell-based therapies.
+
+- name: Cam McHargue
+  photo: Cam.PNG
+  info: Cam has as a BS in Biology from University of Kentucky. He is working on developing in-vitro culture models for investigating bone-muscle crosstalk in diabetic environment.
+  email: Mark.mchargue@uky.edu
 
 #  - name: Parto Babania
 #    photo: parto2.jpg
