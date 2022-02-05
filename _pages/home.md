@@ -81,8 +81,8 @@ We are grateful for funding from the College of Engineering and the Biomedical E
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/coe2.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NIGMS.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ota.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NIAMS2.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ota.png" style="width: 180px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NIAMS2.jpg" style="width: 180px">
 
   <!--<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px"> -->
   <!--<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px"> -->
