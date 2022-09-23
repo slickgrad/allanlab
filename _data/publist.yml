@@ -1,4 +1,24 @@
 
+- title: "Injectable nanoporous microgels generate vascularized constructs and support bone regeneration in critical-sized defects"
+  image: publist12.jpg
+  description: This work lays the foundation to establish principles of designing multiphasic scaffolds with tissue-specific biophysical and biochemical properties for regenerating vascularized and interfacial tissues.
+  authors: Patrick, Keys, Suresh kumar, and Annamalai RT
+  link:
+    url: https://doi.org/10.1038/s41598-022-19968-x
+    display:  Scientific Reports. 2022 Sep 22;12(1):15811
+  highlight: 1
+  news2:
+
+- title: "Licensing microgels prolong the immunomodulatory phenotype of mesenchymal stromal cells"
+  image: publist11.jpg
+  description: Here, we investigated the concentration-dependent effects of IFNγ and TNFα and developed gelatin-based microgels to sustain a licensed mesenchymal stromal cell (MSC) phenotype.
+  authors: Patrick, and Annamalai RT
+  link:
+    url: https://doi.org/10.3389/fimmu.2022.987032
+    display:  Front Immunol. 2022 Aug 18;13:987032
+  highlight: 1
+  news2:
+
 - title: "Bioresponsive microspheres for on‐demand delivery of anti‐inflammatory cytokines for articular cartilage repair"
   image: publist0.jpg
   description: Here, we describe the utility of gelatin microspheres that are responsive to proteolytic enzymes typically expressed in arthritic flares, resulting in on‐demand and spatiotemporally controlled release of anti‐inflammatory cytokines for cartilage preservation and repair.
