@@ -78,7 +78,7 @@ permalink: /team/
 
 
 
-## Graduate Students
+## Graduate Students and Postdocs
 {% assign number_printed = 0 %}
 {% for member in site.data.gstudents %}
 
@@ -245,6 +245,7 @@ permalink: /team/
       </tr>
 <tr>
       <td>Lauryn Humphreys, Spring 2020</td>
+      <th>Alexander Chen</th>
 </tr>
 <tr>
       <td>Amanda Holbrook, Spring 2020</td>
