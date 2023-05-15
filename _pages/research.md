@@ -9,13 +9,14 @@ permalink: /research/
 # **Research**
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our lab is broadly focused on tissue regeneration and vascularization using biomaterials and biofabrication strategies. The lab employs an array of biomaterial, mammalian cell culture techniques, and animals models to develop translatable strategies. Specific areas of interests include:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The overarching goal of my research program is to understand the role of immune cells, senescent cells, and matrix mechanics in tissue regeneration and regulate them by engineering immunomodulatory materials and drug delivery vehicles to restore musculoskeletal tissues impaired by diseases, trauma, and aging. To this end, we:<br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1)	Elucidating the role of immune cells in neotissue formation<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2)	Developing injectable biomaterial systems and other biofabrication strategies<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3)	Developing immunomodulatory strategies for guiding tissue regeneration<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4)	Developing bioresponsive drug-delivery vehicles<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1)	lucidate immune dysregulation and identify predictive biomarkers for musculoskeletal disease and trauma<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2)	develop hybrid nanovesicles for targeted delivery of disease-modifying drugs<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3)	study the influence of soft matrix mechanics on immune cell phenotype and function<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4)	Dstudy the mechanobiology of macrophages and modulate their phenotype using biophysical cues<br/>
 
+We use high-throughput modalities, such as single-cell and spatial transcriptomic modalities, imaging methods, \textit{in vitro} and \textit{in vivo} models, and computational and bioinformatic tools to achieve our aims. I have developed productive collaborations with engineers, clinicians, biologists, and bioinformaticians for carrying out my multidisciplinary work. Below, I summarize my primary research projects and future goals.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/website2.jpg){: style="width: 450px; float: right; border: 0px"}
 
