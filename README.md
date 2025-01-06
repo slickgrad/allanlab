@@ -1,8 +1,8 @@
 # Annamalai Lab Website
 
-This is the website of our academic research group at the University of Kentucky.
+This is the website of our academic research group at the University at Buffalo.
 
-Credits: This website was adapted from the Annamalai Lab at Leiden University
+Credits: This website was adapted from the Allaen Lab at Leiden University
 
 This website is powered by Jekyll and some Bootstrap, Bootwatch.
 
