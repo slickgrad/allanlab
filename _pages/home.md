@@ -1,14 +1,14 @@
 ---
-title: "BITE Lab - Home"
+title: "TERM Lab - Home"
 layout: homelay
-excerpt: "BITE Lab at the University of Kentucky."
+excerpt: "TERM Lab at the University at Buffalo"
 sitemap: false
 permalink: /
 ---
 
 &nbsp;
 
-**Welcome to Biomaterials, Inflammation, and Tissue Engineering (BITE) Lab**
+**Welcome to Tissue Engineering and Regenerative Medicine (TERM) Lab**
 
 We are a passionate research group at the [F. Joseph Halcomb III, M.D. Department of Biomedical Engineering](https://www.engr.uky.edu/research-faculty/departments/biomedical-engineering). We are interested in understanding the mechanobiology of the immune cells and immunomodulatory cells in neotissue formation and tissue repair and applying this knowledge to the development of regenerative therapies. To this end, we study the role of macrophages and mesenchymal stromal cells in bone fracture healing and pathological conditions to elucidate their regenerative potential. My lab also develops microengineered material systems and immunomodulatory biomaterials for promoting tissue regeneration and wound healing. Our research span both basic and translational research areas.&nbsp;
 
