@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "BITE Lab at the University of Kentucky."
+excerpt: "TERM Lab at the University at Buffalo."
 sitemap: false
 permalink: /allnews.html
 ---
