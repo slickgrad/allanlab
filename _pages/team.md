@@ -285,6 +285,45 @@ permalink: /team/
   </tr>
   </table>
 
-<!--
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration. -->
+  <!-- Undergraduate Students Table -->
+<table align="center" style="width:100%; margin-bottom: 2rem;">
+  <tr>
+    <th>Undergraduate Students (Year Graduated)</th>
+  </tr>
+  <tr>
+    <td>Lauryn Humphreys, Spring 2020</td>
+  </tr>
+  <tr>
+    <td>Amanda Holbrook, Spring 2020</td>
+  </tr>
+  <tr>
+    <td>Jeremy Keys, Fall 2019</td>
+  </tr>
+  <tr>
+    <td>Alec Gongaware, Fall 2019</td>
+  </tr>
+  <tr>
+    <td>Laura Richardson, Fall 2019</td>
+  </tr>
+  <tr>
+    <td>Becca Palmer-Ball, Fall 2019</td>
+  </tr>
+  <tr>
+    <td>Odinakachi Obidegwu, Fall 2019</td>
+  </tr>
+  <!-- Add new undergraduates here -->
+</table>
+
+<!-- Graduate Students Table -->
+<table align="center" style="width:100%">
+  <tr>
+    <th>Graduate Students</th>
+  </tr>
+  <tr>
+    <td>Alexander Chen, Spring 2022</td>
+  </tr>
+  <tr>
+    <td>Mark McHargue, Spring 2023</td>
+  </tr>
+  <!-- Add new graduates here -->
+</table>
