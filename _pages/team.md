@@ -244,7 +244,7 @@ permalink: /team/
   <!-- Undergraduate Students Table -->
 <table align="center" style="width:100%; margin-bottom: 2rem;">
  <tr>
-        <td>Sakina Husein Bhanpurawala, Spring 2024</td>
+        <td>Sakina Bhanpurawala, Spring 2024</td>
   </tr>
     <tr>
         <td>Kate Reardon, Spring 2023</td>
@@ -256,7 +256,7 @@ permalink: /team/
         <td>Austin Sovar, Spring 2023</td>
 </tr>
     <tr>
-        <td>Maria Isable Franco (Exchange), Fall 2022</td>
+        <td>Maria Franco (Exchange), Fall 2022</td>
   </tr>
   <tr>
     <td>Lauryn Humphreys, Spring 2020</td>
