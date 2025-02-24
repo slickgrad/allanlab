@@ -242,13 +242,14 @@ permalink: /team/
  <tr>
     <th>Undergraduate Students (Year Graduated)</th>
     <th>Graduate Students</th>
-      </tr>
+        </tr>
 <tr>
       <td>Lauryn Humphreys, Spring 2020</td>
-      <th>Alexander Chen</th>
+      <td>Alexander Chen</td>
 </tr>
 <tr>
       <td>Amanda Holbrook, Spring 2020</td>
+      <td>Mark McHargue</td>
 </tr>
 <tr>
     <td>Jeremy Keys, Fall 2019</td>
