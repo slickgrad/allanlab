@@ -1,16 +1,16 @@
 ---
-title: "BITE Lab - Home"
+title: "TERM Lab - Home"
 layout: homelay
-excerpt: "BITE Lab at the University of Kentucky."
+excerpt: "TERM Lab at the University at Buffalo"
 sitemap: false
 permalink: /
 ---
 
 &nbsp;
 
-**Welcome to Biomaterials, Inflammation, and Tissue Engineering (BITE) Lab**
+**Welcome to Tissue Engineering and Regenerative Medicine (TERM) Lab**
 
-We are a passionate research group at the [F. Joseph Halcomb III, M.D. Department of Biomedical Engineering](https://www.engr.uky.edu/research-faculty/departments/biomedical-engineering). We are interested in understanding the mechanobiology of the immune cells and immunomodulatory cells in neotissue formation and tissue repair and applying this knowledge to the development of regenerative therapies. To this end, we study the role of macrophages and mesenchymal stromal cells in bone fracture healing and pathological conditions to elucidate their regenerative potential. My lab also develops microengineered material systems and immunomodulatory biomaterials for promoting tissue regeneration and wound healing. Our research span both basic and translational research areas.&nbsp;
+We are a passionate research group at the [Department of Biomedical Engineering](https://engineering.buffalo.edu/bme.html). We are interested in understanding the mechanobiology of the immune cells and immunomodulatory cells in neotissue formation and tissue repair and applying this knowledge to the development of regenerative therapies. To this end, we study the role of macrophages and mesenchymal stromal cells in bone fracture healing and pathological conditions to elucidate their regenerative potential. My lab also develops microengineered material systems and immunomodulatory biomaterials for promoting tissue regeneration and wound healing. Our research span both basic and translational research areas.&nbsp;
 
 Our team collaborates with leading experts at the colleges of Medicine, Arts and Sciences, Pharmacy, Engineering, and Dentistry in understanding various aspects of inflammation in diseases and in developing suitable immunomodulatory therapies.
 
@@ -74,7 +74,7 @@ Our team collaborates with leading experts at the colleges of Medicine, Arts and
     <span class="sr-only">Next</span>
   </a>
 </div>&nbsp;
-**We are looking for energetic and passionate graduate and undergraduate students with chemical engineering, material science, mechanical engineering or biology background to join the team. Please directly [email](mailto:Ram.kumar@uky.edu) Dr. Ramkumar Annamalai for more information** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies).&nbsp;
+**We are looking for energetic and passionate graduate and undergraduate students with chemical engineering, material science, mechanical engineering or biology background to join the team. Please directly [email](mailto:ramkumar.suny@gmail.com) Dr. Ramkumar Annamalai for more information** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies).&nbsp;
 
 We are grateful for funding from the College of Engineering and the Biomedical Engineering at UK, Centre for Clinical and Translational Sciences at UK, Centre for Pharmaceutical Research and Innovation at UK, and National Institute of Health (NIGMS).&nbsp;
 
@@ -82,8 +82,8 @@ We are grateful for funding from the College of Engineering and the Biomedical E
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NIGMS.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ota.png" style="width: 180px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NIAMS2.jpg" style="width: 180px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/coe2.jpg" style="width: 210px">
 
+  <!--img src="{{ site.url }}{{ site.baseurl }}/images/logopic/coe2.jpg" style="width: 210px">
   <!--<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px"> -->
   <!--<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px"> -->
 </figure>
