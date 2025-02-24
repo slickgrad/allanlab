@@ -239,56 +239,24 @@ permalink: /team/
 
 
 <table align="center" style="width:100%">
+
+
+  <!-- Undergraduate Students Table -->
+<table align="center" style="width:100%; margin-bottom: 2rem;">
  <tr>
-    <th>Undergraduate Students (Year Graduated)</th>
-    <th>Graduate Students</th>
-</tr>
-<tr>
-      <td>Lauryn Humphreys, Spring 2020</td>
-      <td>Alexander Chen, Spring 2022</td>
-</tr>
-<tr>
-      <td>Amanda Holbrook, Spring 2020</td>
-      <td>Mark McHargue, Spring 2023</td>
-</tr>
-<tr>
-    <td>Jeremy Keys, Fall 2019</td>
-      </tr>
-<tr>
-    <td>Alec Gongaware, Fall 2019</td>
-      </tr>
-  <tr>
-        <td>Laura Richardson, Fall 2019</td>
-      </tr>
-  <tr>
-        <td>Becca Palmer-Ball, Fall 2019</td>
-      </tr>
-  <tr>
-        <td>Odinakachi Obidegwu, Fall 2019</td>
+        <td>Sakina Husein Bhanpurawala, Spring 2024</td>
   </tr>
-  <tr>
-        <td>Austin Sovar, Spring 2023</td>
-  </tr>  
-  <tr>
+    <tr>
         <td>Kate Reardon, Spring 2023</td>
   </tr>  
   <tr>
         <td>Lauren Baur, Spring 2023</td>
-  </tr>  
-  <tr>
-        <td>Maria Isable Franco (Exchange), Fall 2022</td>
   </tr>
     <tr>
-        <td>Sakina Husein Bhanpurawala, Spring 2024</td>
-  </tr>
-  <tr>
-  </tr>
-  </table>
-
-  <!-- Undergraduate Students Table -->
-<table align="center" style="width:100%; margin-bottom: 2rem;">
-  <tr>
-    <th>Undergraduate Students (Year Graduated)</th>
+        <td>Austin Sovar, Spring 2023</td>
+</tr>
+    <tr>
+        <td>Maria Isable Franco (Exchange), Fall 2022</td>
   </tr>
   <tr>
     <td>Lauryn Humphreys, Spring 2020</td>
