@@ -1,7 +1,22 @@
+- name: Saptarshi Mandal, PhD
+  photo: sam2.png
+  info: I have bachelor's degrees in Chemistry and Chemical Technology and a master's degree in Pharmaceutical and Fine chemical technology. I did my Ph.D. from IIT Patna. My research goal is integrating science and technology for theranostics. My hobby is finding the chemical components of daily materials, spiritualism, and listening to Indian music.
+  email: saptarshi.mandal@uky.edu
+
 - name: Matthew Patrick, BS
   photo: Matt_2.jpg
   info: I have a BS in Biology and minor in Physics from the University of Kentucky. I’m interested in biomaterial and medical research. I volunteered as a K-crew member and was a part of the UK Ecology club. I like playing music, watching movies, and being active.
   email: Matthew.Patrick@uky.edu
+
+- name: Cam McHargue, BS
+  photo: Cam.png
+  info: Cam has as a BS in Biology from University of Kentucky. He is working on developing in-vitro culture models for investigating bone-muscle crosstalk in diabetic environment.
+  email: Mark.mchargue@uky.edu
+
+- name: Sushant Prajapati, BS
+  photo: sushant.png
+  info: Sushant has as a Bachelor of Technology in Biotechnology from NIT, India. He is working on egineering biomaterials and drug delivery vehicles for immunomodulation.
+  email: Sushant.Prajapati@uky.edu
 
 - name: Heather Thompson, BS
   photo: Heather.jpg
