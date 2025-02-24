@@ -267,13 +267,19 @@ permalink: /team/
         <td>Odinakachi Obidegwu, Fall 2019</td>
   </tr>
   <tr>
-        <td>Austin Sovar, Spring 2021</td>
-  </tr>  <tr>
-        <td>Kate Reardon, Spring 2022</td>
-  </tr>  <tr>
-        <td>Lauren Baur, Spring 2022</td>
-  </tr>  <tr>
+        <td>Austin Sovar, Spring 2023</td>
+  </tr>  
+  <tr>
+        <td>Kate Reardon, Spring 2023</td>
+  </tr>  
+  <tr>
+        <td>Lauren Baur, Spring 2023</td>
+  </tr>  
+  <tr>
         <td>Maria Isable Franco (Exchange), Fall 2022</td>
+  </tr>
+    <tr>
+        <td>Sakina Husein Bhanpurawala, Spring 2024</td>
   </tr>
   <tr>
   </tr>
