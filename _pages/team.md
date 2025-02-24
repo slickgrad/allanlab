@@ -242,14 +242,14 @@ permalink: /team/
  <tr>
     <th>Undergraduate Students (Year Graduated)</th>
     <th>Graduate Students</th>
-        </tr>
+</tr>
 <tr>
       <td>Lauryn Humphreys, Spring 2020</td>
-      <td>Alexander Chen</td>
+      <td>Alexander Chen, Spring 2022</td>
 </tr>
 <tr>
       <td>Amanda Holbrook, Spring 2020</td>
-      <td>Mark McHargue</td>
+      <td>Mark McHargue, Spring 2023</td>
 </tr>
 <tr>
     <td>Jeremy Keys, Fall 2019</td>
@@ -266,7 +266,15 @@ permalink: /team/
   <tr>
         <td>Odinakachi Obidegwu, Fall 2019</td>
   </tr>
-
+  <tr>
+        <td>Austin Sovar, Spring 2021</td>
+  </tr>  <tr>
+        <td>Kate Reardon, Spring 2022</td>
+  </tr>  <tr>
+        <td>Lauren Baur, Spring 2022</td>
+  </tr>  <tr>
+        <td>Maria Isable Franco (Exchange), Fall 2022</td>
+  </tr>
   <tr>
   </tr>
   </table>
