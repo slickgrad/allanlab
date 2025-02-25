@@ -1,5 +1,4 @@
 ---
-title: "Annamalai Lab - Vacancies"
 layout: post
 excerpt: "Openings"
 sitemap: false
