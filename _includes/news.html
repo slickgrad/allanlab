@@ -2,7 +2,7 @@
 <h4>News</h4>
 
 {% for article in site.data.news limit:5 %}
-{{ **article.date** }}
+<strong>{{ article.date }}</strong>  <!-- Bolded date -->
 <p>{{ article.headline }}</p>
 {% if article.image %}
 <img src="{{ article.image | relative_url }}" class="img-responsive" style="max-width: 192px" />
