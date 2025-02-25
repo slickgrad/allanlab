@@ -111,6 +111,7 @@ We gratefully acknowledge support from:
 *Inspiring Healing. Engineering Hope.*  
 **Let’s build the future of regenerative medicine—one discovery at a time.**  
 ---
+
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NIGMS.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ota.png" style="width: 180px">
