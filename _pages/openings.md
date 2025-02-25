@@ -5,21 +5,21 @@ excerpt: "Openings"
 sitemap: false
 permalink: /vacancies
 ---
-### **We Want Trailblazers!**  
+#### **We Want Trailblazers!**  
 *If you eat, sleep, and breathe biomedical innovation – let’s make magic happen.*  
 
 🔬 **We’re hunting for:**  
+- Musculoskeletal biology enthusiasts 🦴  
 - Synthetic biomaterial alchemists 🧪
 - Hydrogel mechanics gurus 🔬  
-- Cellular mechanotransduction detectives 🕵️♂️  
-- Bone biology enthusiasts 🦴  
+- Mechanotransduction detectives 🕵️ 
 - Macrophage mavericks 🦠  
 
 ### **Prospective Graduate Students and Postdocs**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you are interested in working with us as a PhD student or Postdoctoral fellow, please send me an [email](mailto:ramkumar.suny@gmail.com). Briefly mention why you are interested in this position and attach a CV, with your graduate and undergraduate transcripts. No need for a separate cover letter or certificates. Please add _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are a master's student at the University of Kentucky looking for a master's thesis project, email me or stop by my office. Women and underrepresented minorities are encouraged to apply.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you are interested in working with us as a PhD student or Postdoctoral fellow, please send me an [email](mailto:ramkumar.suny@gmail.com). Briefly mention why you are interested in this position and attach a CV, with your graduate and undergraduate transcripts. No need for a separate cover letter or certificates. Please add _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are a master's student at UB looking for a master's thesis project, email me or stop by my office. Women and underrepresented minorities are encouraged to apply.
 
 #### ***Scientific Fit***
-My lab is broadly focused on biomaterials, musculoskeletal tissue engineering and fundamental musculoskeletal biology. To this end, we develop injectable biomaterial systems, immunomodulatory strategies, and fabrication methods to regenerate tissues and organs. We also study the roles of immune cells, mainly macrophages in physiological and pathological conditions to elucidate their regenerative potential. Our research span both basic and translational research areas. The lab employs an array of biomaterial, mammalian cell culture techniques, and animal models to develop translatable strategies. If your research interest falls in this general description, please familiarize yourself with ongoing projects in the lab as well as our recent publications.
+My lab is broadly focused on fundamental biology, repair and regeneration of musculoskeletal tissues. To this end, we develop biomaterial systems, immunomodulatory strategies, and animal models. We also study the roles of immune cells, mainly macrophages in physiological and pathological conditions to elucidate their regenerative potential. Our research span both basic and translational research areas. The lab employs an array of biomaterial, mammalian cell culture techniques, and animal models to develop translatable strategies. If your research interest falls in this general description, please familiarize yourself with ongoing projects in the lab as well as our recent publications.
 
 #### ***Mentoring Philosophy***
 Choosing the right graduate advisor is critical for success in graduate school. I take the role of graduate advisor very seriously. As your mentor, I will train you to become an independent research scientist. At the beginning of your grad school, I will train you in our lab techniques and experimental design. As students develop their dissertation, my emphasis will shift towards training in scientific writing and grantsmanship as they gain research independence. I will do my best to fund your research, and help cover the expenses to one scientific meeting per year.
