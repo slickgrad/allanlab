@@ -99,9 +99,6 @@ We gratefully acknowledge support from:
 - **National Institutes of Health (NIGMS)**
 - **Orthopedic Trauma Association (OTA)**
 
-*Inspiring Healing. Engineering Hope.*  
-**Let’s build the future of regenerative medicine—one discovery at a time.**  
-
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NIGMS.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ota.png" style="width: 180px">
@@ -111,3 +108,6 @@ We gratefully acknowledge support from:
   <!--<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px"> -->
   <!--<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px"> -->
 </figure>
+
+*Inspiring Healing. Engineering Hope.*  
+**Let’s build the future of regenerative medicine—one discovery at a time.**  
