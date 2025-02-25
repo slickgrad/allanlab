@@ -5,19 +5,16 @@ excerpt: "TERM Lab at the University at Buffalo"
 sitemap: false
 permalink: /
 ---
-
 &nbsp;
 # Welcome to the Tissue Engineering and Regenerative Medicine (TERM) Lab  
 *Where Science Meets Innovation to Heal and Rebuild*  
 
 ---
 
-## **Who We Are**  
+### **Who We Are**  
 We’re a dynamic, interdisciplinary team in the [**Department of Biomedical Engineering**](https://engineering.buffalo.edu/bme.html), driven by curiosity and a shared mission: to unlock the secrets of how cells, materials, and the body’s repair mechanisms intertwine. Our passion lies in pioneering regenerative therapies that could transform lives—from healing nonunion fractures to battling chronic diseases like osteoarthritis and sarcopenia.
-
 ---
-
-## **Our Research: Bridging Discovery and Impact**  
+### **Our Research: Bridging Discovery and Impact**  
 At the TERM Lab, we explore the interplay between *mechanobiology*, *immunology*, and *biomaterials* to answer bold questions and engineer groundbreaking solutions:  
 
 🔬 **Decoding Cellular Mechanics**  
@@ -30,7 +27,6 @@ At the TERM Lab, we explore the interplay between *mechanobiology*, *immunology*
 
 🩺 **From Bench to Bedside**  
 - Investigating nonunion fractures, osteoarthritis, and other pathologies to develop therapies that restore function.  
-
 ---
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
