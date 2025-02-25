@@ -27,6 +27,115 @@ At the TERM Lab, we explore the interplay between *mechanobiology*, *immunology*
 - Investigating nonunion fractures, osteoarthritis, and other pathologies to develop therapies that restore function.
 
 ---
+<div id="professionalCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="6000" data-bs-pause="hover">
+    <!-- Indicators -->
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#professionalCarousel" data-bs-slide-to="0" class="active"></button>
+        <button type="button" data-bs-target="#professionalCarousel" data-bs-slide-to="1"></button>
+        <button type="button" data-bs-target="#professionalCarousel" data-bs-slide-to="2"></button>
+        <button type="button" data-bs-target="#professionalCarousel" data-bs-slide-to="3"></button>
+        <button type="button" data-bs-target="#professionalCarousel" data-bs-slide-to="4"></button>
+        <button type="button" data-bs-target="#professionalCarousel" data-bs-slide-to="5"></button>
+        <button type="button" data-bs-target="#professionalCarousel" data-bs-slide-to="6"></button>
+        <button type="button" data-bs-target="#professionalCarousel" data-bs-slide-to="7"></button>
+        <button type="button" data-bs-target="#professionalCarousel" data-bs-slide-to="8"></button>
+        <button type="button" data-bs-target="#professionalCarousel" data-bs-slide-to="9"></button>
+    </div>
+
+    <!-- Slides -->
+    <div class="carousel-inner ratio ratio-16x9">
+        <div class="carousel-item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/website1.jpg" 
+                 class="d-block w-100 img-fluid" 
+                 alt="Lab Overview"
+                 loading="lazy">
+            <div class="carousel-caption d-none d-md-block">
+                <h5>State-of-the-Art Research Facilities</h5>
+                <p>Our advanced laboratory setup for tissue engineering research</p>
+            </div>
+        </div>
+        <!-- Repeat for other slides with proper captions -->
+    </div>
+
+    <!-- Controls -->
+    <button class="carousel-control-prev" type="button" data-bs-target="#professionalCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#professionalCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+
+<style>
+.carousel {
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.12);
+}
+
+.carousel-item {
+    transition: transform 0.6s ease-in-out;
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin: 0 8px;
+    border: 2px solid #fff;
+    background-color: transparent;
+    opacity: 0.7;
+    transition: all 0.3s ease;
+}
+
+.carousel-indicators .active {
+    background-color: #fff;
+    opacity: 1;
+    transform: scale(1.2);
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    width: 6%;
+    opacity: 0.9;
+    transition: opacity 0.3s ease;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    width: 2.5rem;
+    height: 2.5rem;
+    background-size: 100% 100%;
+    filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));
+}
+
+.carousel-caption {
+    background: rgba(0,0,0,0.6);
+    border-radius: 10px;
+    padding: 1.5rem;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 2rem;
+    width: 80%;
+    max-width: 800px;
+}
+
+.carousel-caption h5 {
+    color: #fff;
+    font-size: 1.4rem;
+    font-weight: 600;
+    margin-bottom: 0.8rem;
+}
+
+.carousel-caption p {
+    font-size: 1rem;
+    opacity: 0.9;
+    margin-bottom: 0;
+}
+</style>
+<!-- Menu 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
