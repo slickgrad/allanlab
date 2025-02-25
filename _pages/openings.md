@@ -29,13 +29,6 @@ For availability of graduate research assistantships, please contact me via emai
 ### **Prospective Undergraduate / Exchange students**
 Our lab welcomes passionate undergrads interested in gaining research experience while at the University at Buffalo. Preferences will be given to students with good grades, work ethic, ability to commit at least 10 hours/week to research, and 2+ semesters in the lab. If you are an international student interested in participating in the student exchange program at the University at BUffalo, please visit [NSE website](https://nse.org/exchange/campus-profile/104/). We also take summer interns if we get exceptional applicants (this usually means excellent grades and a personal recommendation).
 
-### Our Lab Vibe
-
-**We’re not just colleagues – we’re:**  
-- Failure-celebrators (every messed-up gel teaches something!)  
-- Collaboration champions (no lone wolves here) 🐺  
-- Work-hard, laugh-hard enthusiasts (dad jokes encouraged) 😂  
-
 **Mentorship Promise:**  
 > "I’ll help you grow from trainee to independent scientist – your success is my success."  
 > – Dr. Annamalai  
