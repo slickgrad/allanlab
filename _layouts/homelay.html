@@ -1,13 +1,53 @@
----
-layout: default
----
+<div class="container-fluid">
+  <div class="row">
+    <!-- Main Content Column (larger) -->
+    <div id="homeid" class="col-lg-9 col-md-8">  <!-- Increased from 8 to 9 -->
+      <figure class="mb-4">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/termlogo.jpg" 
+             class="img-fluid" 
+             alt="TERM Lab Logo">
+      </figure>
+      <div class="content-wrapper">
+        {{ content }}
+      </div>
+    </div>
 
-  <div id="homeid" class="col-sm-8">
-        <figure>
-        <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/termlogo.jpg" width="100%">
-        </figure>
-	{{ content }}
+    <!-- News Column (slightly smaller) -->
+    <div id="newsid" class="col-lg-3 col-md-4">  <!-- Decreased from 4 to 3 -->
+      {% include news.html %}
+    </div>
   </div>
-  <div id="newsid" class="col-sm-4" >
-	{% include news.html %}
-  </div>
+</div>
+
+<style>
+/* Custom CSS */
+.container-fluid {
+  max-width: 1400px;  /* Increase max container width */
+  padding: 0 2rem;
+}
+
+.content-wrapper {
+  padding-right: 3rem;  /* Add breathing room */
+}
+
+#homeid {
+  padding: 2rem 0;
+}
+
+#newsid {
+  background: #f8f9fa;
+  padding: 2rem 1.5rem;
+  border-left: 1px solid #dee2e6;
+}
+
+@media (min-width: 1200px) {
+  #homeid {
+    flex: 0 0 75%;  /* 75% width on XL screens */
+    max-width: 75%;
+  }
+  #newsid {
+    flex: 0 0 25%;
+    max-width: 25%;
+  }
+}
+</style>
