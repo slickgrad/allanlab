@@ -12,7 +12,7 @@
 ">
   <h4 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 8px;">News</h4>
 
-{% for article in site.data.news limit:5 %}
+{% for article in site.data.news limit:6 %}
 <strong style="color: #3498db;">{{ article.date }}</strong>
 <p>{{ article.headline }}</p>
 {% if article.image %}
