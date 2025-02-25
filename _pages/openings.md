@@ -6,11 +6,23 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# **Open positions**
+## **Open positions**
+## **We Want Trailblazers!**  
+*If you eat, sleep, and breathe biomaterials innovation – let’s make magic happen.*  
 
-#### **We are always looking for new group members with passion, work ethic, and grit!**
+🔬 **You’ll be pioneering:**  
+- **Tissue fabrication** that would make 3D printing jealous  
+- **Smart biomaterials** that whisper to immune cells  
+- **Regeneration breakthroughs** for bones, cartilage and muscle that refuse to heal  
+- **Macrophage whisperer** techniques to tame inflammation  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You will have the opportunity to work on the grand challenges of tissue fabrication, biomaterials engineering, immunomodulation, and immuno-engineering. Our lab collaborates with faculties in the college of engineering, medicine, and pharmacy in understanding various aspects of biomaterials development, tissue regeneration, and wound healing. You will be engaged in determining the essential and exciting questions, designing and executing experiments, performing assays, and making discoveries.
+💥 **We’re hunting for:**  
+- Synthetic biomaterial alchemists 🧪  
+- Hydrogel elasticity gurus 🔬  
+- Cellular mechanotransduction detectives 🕵️♂️  
+- Bone biology enthusiasts 🦴  
+- Macrophage mavericks 🦠  
+
 
 #### ***We are particularly looking for students with a background in the following areas: 1) Synthesis and characterization of synthetic biomaterials; 2) Elastic/viscoelastic properties of hydrogel matrices; 3) Cellular mechanotransduction; 4) Bone biology; 5) Macrophage biology***
 
