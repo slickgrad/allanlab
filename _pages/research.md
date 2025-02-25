@@ -21,13 +21,13 @@ Below, I summarize my primary research projects and future goals.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/website2.jpg){: style="width: 450px; float: right; border: 0px"}
 
-#### **i) Harnessing inflammatory regenerative pathways for bone regeneration**
+#### **i) Immune dysfunction in musculoskeletal tissues**
 
 Nonunion of long bones is a debilitating injury and treatment for such recalcitrant wounds is an urgent clinical need. We have developed an injectable therapy for regenerating large and ischemic bone defects using mesenchymal stem cells. It has worked very well in small animals, and we are now in the process of testing them in larger animal models and human patients. Although they have shown a lot of promise, they often require some form of osteoinductive signals to differentiate the progenitor cells for robust bone formation. This prerequisite is not always practical in the clinic. So we are exploring ways to provide these osteoinductive signals through immune cells that naturally infiltrate the implanted tissue. To this end, we are investigating the role of inflammatory cells, mainly macrophages in physiological and pathological conditions. Macrophages are central to the vascularized bone formation during fracture healing. In healing fractures, inflammation, and osteogenesis are intimately linked, and the proper sequence and dose of inflammatory signals are critical for proper bone healing. If we understand how these cells recruit the progenitor cells to the target site and differentiate them to osteoblasts, we can potentially reproduce the same conditions in an engineered scaffold.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/website5.jpg){: style="width: 450px; float: right; border: 10px"}
 
-#### **ii) Immunomodulation and immunoengineering**
+#### **ii) Biomaterials for immunomodulation and immunoengineering**
 Macrophages and neutrophils infiltrate tissues swiftly after an injury or infection. Their invasiveness is mainly steered by their secretion of MMPs. Our recently published work showed that the material properties could be tuned to deliver growth factors in a spatiotemporally controlled manner by synchronizing their response with the local inflammatory milieu. Such ‘smart’ delivery vehicles are useful for targeted delivery of drugs and growth factors for healing recalcitrant wounds and inflammation-driven ailments. These ‘smart’ delivery vehicles can titrate the drug release to synchronize with the inflammatory response resulting in optimal therapeutic efficacy. This can reduce the washout of drugs during periods of low disease activity and hence prolong their therapeutic effect. Part of our research is to develop a flare-responsive ‘smart’ delivery system for osteoarthritis (OA). Our approach will tailor the chemistry of the microparticles to take advantage of the proteases-rich inflammatory milieu for the spatiotemporally controlled release of the loaded drugs.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/website9.jpg){: style="width: 450px; float: right; border: 0px"}
