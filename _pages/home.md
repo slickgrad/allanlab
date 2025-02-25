@@ -65,7 +65,7 @@ At the TERM Lab, we explore the interplay between *mechanobiology*, *immunology*
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/website6.jpg" alt="Slide 6" />
         </div>  
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/website4.jpg" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/website11.jpg" alt="Slide 7" />
           </div>
         <div class="item">
               <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/website8.jpg" alt="Slide 8" />
