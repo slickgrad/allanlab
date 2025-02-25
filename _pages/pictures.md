@@ -1,47 +1,58 @@
 ---
-title: "Annamalai Lab - Pictures"
+title: "Annamalai Lab - Gallery"
 layout: piclay
-excerpt: "Annamalai Lab -- Pictures"
+excerpt: "Research Gallery"
 permalink: /pictures/
 ---
 
-### **Pictures**
+<div class="container">
+  <h1 class="mb-4">Lab Gallery</h1>
+  
+  <div class="alert alert-info">
+    <i class="fas fa-info-circle"></i> Click any image to view full size
+  </div>
 
-
-(Right-click *'view image'*  or *'open image in a new tab'* to see a larger image.)
-{% assign number_printed = 0 %}
-{% for pic in site.data.pictures_term %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+  <div class="row">
+    {% for pic in site.data.pictures_term %}
+      <div class="col-sm-6 col-md-4 col-lg-3 mb-4">
+        <a href="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" 
+           data-lightbox="gallery"
+           data-title="{{ pic.caption }}">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}"
+               class="img-fluid rounded shadow-sm"
+               loading="lazy"
+               width="800"
+               height="600"
+               style="object-fit: cover; height: 200px"
+               alt="{{ pic.description }}">
+        </a>
+      </div>
+      
+      {% assign mod = forloop.index | modulo: 4 %}
+      {% if mod == 0 and forloop.last == false %}
+        </div><div class="row">
+      {% endif %}
+    {% endfor %}
+  </div>
 </div>
 
-{% assign number_printed = number_printed | plus: 1 %}
+<!-- Add lightbox CSS/JS -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 
-{% if even_odd > 2 %}
-</div>
-{% endif %}
+<style>
+/* Custom gallery styling */
+.img-fluid {
+  transition: transform 0.3s ease;
+  cursor: zoom-in;
+}
 
+.img-fluid:hover {
+  transform: scale(1.03);
+}
 
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% if even_odd == 2 %}
-</div>
-{% endif %}
-
-{% if even_odd == 3 %}
-</div>
-{% endif %}
-
-<p> &nbsp; </p>
+.lb-data .lb-caption {
+  font-size: 1rem;
+  line-height: 1.4;
+}
+</style>
