@@ -3,7 +3,7 @@ title: "Annamalai Lab – Join Our Quest to Revolutionize Regenerative Medicine!
 layout: textlay
 excerpt: "Shape the Future of Healing – Open Positions"
 sitemap: false
-permalink: /vacancies
+permalink: /openings
 ---
 
 <div class="hero-box" style="background: linear-gradient(135deg, #2c3e50, #3498db); padding: 2rem; border-radius: 15px; color: white; text-align: center; margin-bottom: 2rem;">
