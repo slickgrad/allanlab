@@ -101,6 +101,7 @@ permalink: /vacancies
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/phdcomics1.gif" style="width: 65%; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 2rem auto; display: block;">
 <figcaption style="color: #666; font-style: italic; margin-top: 0.5rem;">When your Western blot finally works 😂</figcaption>
 </figure>
+
 <!---
 title: "Annamalai Lab - Vacancies"
 layout: textlay
@@ -137,4 +138,4 @@ For availability of graduate research assistantships, please contact me via emai
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/phdcomics1.gif" width="75%">
-</figure>
+</figure> -->
