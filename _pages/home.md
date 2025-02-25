@@ -33,20 +33,6 @@ At the TERM Lab, we explore the interplay between *mechanobiology*, *immunology*
 
 ---
 
-## **Collaborate. Innovate. Transform.**  
-We partner with experts across **Medicine, Pharmacy, Dentistry, Engineering, and Arts & Sciences** to:  
-- Decode inflammation in disease and aging.  
-- Craft next-generation immunomodulatory therapies.  
-
----
-
-## **Join Our Team!**  
-Are you a curious student or researcher with a background in **chemical engineering, materials science, mechanical engineering, or biology**? Join us in solving puzzles at the frontier of regenerative medicine!  
-
-**Reach out to Dr. Ramkumar Annamalai** [(Email)](mailto:ramkumar.suny@gmail.com) to explore opportunities.  
-
----
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -107,6 +93,20 @@ Are you a curious student or researcher with a background in **chemical engineer
     <span class="sr-only">Next</span>
   </a>
 </div>&nbsp;
+
+## **Collaborate. Innovate. Transform.**  
+We partner with experts across **Medicine, Pharmacy, Dentistry, Engineering, and Arts & Sciences** to:  
+- Decode inflammation in disease and aging.  
+- Craft next-generation immunomodulatory therapies.  
+
+---
+
+## **Join Our Team!**  
+Are you a curious student or researcher with a background in **chemical engineering, materials science, mechanical engineering, or biology**? Join us in solving puzzles at the frontier of regenerative medicine!  
+
+**Reach out to Dr. Ramkumar Annamalai** [(Email)](mailto:ramkumar.suny@gmail.com) to explore opportunities.  
+
+---
 
 ## **Funding & Support**  
 We gratefully acknowledge support from:  
