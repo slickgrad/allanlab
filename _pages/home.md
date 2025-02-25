@@ -6,7 +6,6 @@ sitemap: false
 permalink: /
 ---
 &nbsp;
-## Welcome to the Tissue Engineering and Regenerative Medicine (TERM) Lab  
 *Where Science Meets Innovation to Heal and Rebuild*  
 ---
 ### **Who We Are**  
