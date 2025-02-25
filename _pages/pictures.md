@@ -5,7 +5,7 @@ excerpt: "Annamalai Lab -- Pictures"
 permalink: /pictures/
 ---
 
-# **Pictures**
+### **Pictures**
 
 
 (Right-click *'view image'*  or *'open image in a new tab'* to see a larger image.)
