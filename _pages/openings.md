@@ -5,8 +5,6 @@ excerpt: "Openings"
 sitemap: false
 permalink: /vacancies
 ---
-
-## **Open positions**
 ## **We Want Trailblazers!**  
 *If you eat, sleep, and breathe biomedical innovation – let’s make magic happen.*  
 
@@ -28,59 +26,6 @@ permalink: /vacancies
 - Create biomaterial systems smarter than your phone 📱  
 - Publish papers that make colleagues say “Why didn’t I think of that?!” 📚  
 
-**How to Apply (We’ve Made It Easy):**  
-1. Shoot an email to [Dr. Ramkumar](mailto:ramkumar.suny@gmail.com) with:  
-   - A **1-paragraph pitch** about your science superpower  
-   - Your CV (bonus points for creative formatting) 📄  
-   - Transcripts (we promise not to judge that B in freshman chem) 🎓  
-2. Subject line: “_[Your Name] – Future Biomaterials Rockstar [PhD/Postdoc]_”  
-
-**Perks of Joining the Squad:**  
-✅ Mentorship that turns you into an independent science ninja 🥷  
-✅ Conference funds to present your world-changing work ✈️  
-✅ First dibs on our lab’s legendary coffee stash ☕  
-
-<h2 style="color: #1a237e;">👩🔬 Undergraduate Researchers Wanted!</h2>
-
-**No coffee-fetching interns here – you’ll be:**  
-- Running *real experiments* from day one  
-- Contributing to publications (hello, med school applications!) 🎓  
-- Learning techniques most students only see in textbooks  
-
-**Our Ideal Candidate:**  
-- Can commit 10+ hrs/week (lab time > Netflix time) ⏳  
-- Has a GPA that makes their mom proud 📈  
-- Brings contagious enthusiasm (emoji game optional but appreciated) 😎  
-
-**International Students:** Check out our [Global Exchange Program](https://nse.org/exchange/campus-profile/104/)! 🌍  
-</div>
-
----
-
-<h3>💰 Funding Your Greatness</h3>
-
-- **Full stipends** for PhD candidates  
-- **Fellowship opportunities**:  
-  - [BME Innovators Grant](https://engineering.buffalo.edu/home/academics/grad/scholarships.html) 💸  
-  - [LSAMP Fellowship](https://engineering.buffalo.edu/home/diversity-inclusion/students/lsamp.html) for underrepresented researchers ✊  
-  - Summer research awards (beach optional, discovery guaranteed) 🏖️  
-</div>
-
----
-
-<h3>❤️ Our Lab Vibe</h3>
-
-**We’re not just colleagues – we’re:**  
-- Failure-celebrators (every messed-up gel teaches something!)  
-- Collaboration champions (no lone wolves here) 🐺  
-- Work-hard, laugh-hard enthusiasts (dad jokes encouraged) 😂  
-
-**Mentorship Promise:**  
-> "I’ll help you grow from trainee to independent scientist – your success is my success."  
-> – Dr. Annamalai  
-</div>
-
-
 
 ## Translation to non-nerds!
 
@@ -98,6 +43,19 @@ For availability of graduate research assistantships, please contact me via emai
 
 ### **ii) Prospective Undergraduate / Exchange students**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our lab welcomes passionate undergrads interested in gaining research experience while at the University at Buffalo. Preferences will be given to students with good grades, work ethic, ability to commit at least 10 hours/week to research, and 2+ semesters in the lab. If you are an international student interested in participating in the student exchange program at the University at BUffalo, please visit [NSE website](https://nse.org/exchange/campus-profile/104/). We also take summer interns if we get exceptional applicants (this usually means excellent grades and a personal recommendation).
+
+---
+
+<h3>Our Lab Vibe</h3>
+
+**We’re not just colleagues – we’re:**  
+- Failure-celebrators (every messed-up gel teaches something!)  
+- Collaboration champions (no lone wolves here) 🐺  
+- Work-hard, laugh-hard enthusiasts (dad jokes encouraged) 😂  
+
+**Mentorship Promise:**  
+> "I’ll help you grow from trainee to independent scientist – your success is my success."  
+> – Dr. Annamalai  
 
 ---
 
