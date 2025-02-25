@@ -1,12 +1,30 @@
-<div class="well">
-<h2>News</h2>
+<div class="well" style="
+  background: linear-gradient(45deg, #f8f9fa 25%, transparent 25%),
+              linear-gradient(-45deg, #f8f9fa 25%, transparent 25%),
+              linear-gradient(45deg, transparent 75%, #f8f9fa 75%),
+              linear-gradient(-45deg, transparent 75%, #f8f9fa 75%);
+  background-size: 20px 20px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  border: 1px solid #e9ecef;
+  padding: 25px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+">
+  <h4 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 8px;">News</h4>
 
-{% for article in site.data.news limit:5 %}
-<strong>{{ article.date }}</strong>  <!-- Bolded date -->
-<p>{{ article.headline }}</p>
-{% if article.image %}
-<img src="{{ article.image | relative_url }}" class="img-responsive" style="max-width: 192px" />
-{% endif %}
-{% endfor %}
-<h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
+  {% for article in site.data.news limit:5 %}
+  <div style="margin-bottom: 20px; padding: 15px; background-color: rgba(255, 255, 255, 0.8); border-radius: 8px;">
+    <strong style="color: #3498db;">{{ article.date }}</strong>
+    <p style="color: #2c3e50; margin-top: 8px;"><strong>{{ article.headline }}</strong></p>
+    {% if article.image %}
+    <img src="{{ article.image | relative_url }}" class="img-responsive" style="max-width: 192px; margin-top: 12px; border-radius: 4px;">
+    {% endif %}
+  </div>
+  {% endfor %}
+
+  <h4 style="margin-top: 20px;">
+    <a href="{{ site.url }}{{ site.baseurl }}/allnews.html" style="color: #3498db; text-decoration: none;">
+      ... see all News →
+    </a>
+  </h4>
 </div>
