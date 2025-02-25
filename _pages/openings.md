@@ -1,6 +1,6 @@
 ---
 title: "Annamalai Lab - Vacancies"
-layout: default
+layout: post
 excerpt: "Openings"
 sitemap: false
 permalink: /vacancies
