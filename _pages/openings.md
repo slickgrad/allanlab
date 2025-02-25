@@ -37,7 +37,7 @@ For availability of graduate research assistantships, please contact me via emai
 </figure> -->
 
 
-<!---
+---
 title: "Annamalai Lab – Join Our Quest to Revolutionize Regenerative Medicine!"
 layout: textlay
 excerpt: "Shape the Future of Healing – Open Positions"
@@ -45,9 +45,6 @@ sitemap: false
 permalink: /openings
 ---
 
-<div class="hero-box" style="background: linear-gradient(135deg, #2c3e50, #3498db); padding: 2rem; border-radius: 15px; color: white; text-align: center; margin-bottom: 2rem;">
-<h1 style="font-size: 2.5rem; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🚀 Launch Your Research Career With Us!</h1>
-</div>
 
 ## **We Want Trailblazers!**  
 *If you eat, sleep, and breathe biomaterials innovation – let’s make magic happen.*  
@@ -67,8 +64,6 @@ permalink: /openings
 
 ---
 
-<div class="opportunity-card" style="background: #f8f9fa; border-left: 5px solid #3498db; padding: 1.5rem; margin: 2rem 0; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
-<h2 style="color: #2c3e50;">🔥 Graduate Students & Postdocs: Let’s Change Medicine Together</h2>
 
 **Your mission, should you choose to accept:**  
 - Design experiments that make cells do the cha-cha slide 💃  
