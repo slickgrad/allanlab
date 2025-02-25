@@ -6,11 +6,9 @@ sitemap: false
 permalink: /
 ---
 &nbsp;
-# Welcome to the Tissue Engineering and Regenerative Medicine (TERM) Lab  
+## Welcome to the Tissue Engineering and Regenerative Medicine (TERM) Lab  
 *Where Science Meets Innovation to Heal and Rebuild*  
-
 ---
-
 ### **Who We Are**  
 We’re a dynamic, interdisciplinary team in the [**Department of Biomedical Engineering**](https://engineering.buffalo.edu/bme.html), driven by curiosity and a shared mission: to unlock the secrets of how cells, materials, and the body’s repair mechanisms intertwine. Our passion lies in pioneering regenerative therapies that could transform lives—from healing nonunion fractures to battling chronic diseases like osteoarthritis and sarcopenia.
 ---
@@ -90,34 +88,28 @@ At the TERM Lab, we explore the interplay between *mechanobiology*, *immunology*
   </a>
 </div>&nbsp;
 
-## **Collaborate. Innovate. Transform.**  
+#3# **Collaborate. Innovate. Transform.**  
 We partner with experts across **Medicine, Pharmacy, Dentistry, Engineering, and Arts & Sciences** to:  
 - Decode inflammation in disease and aging.  
 - Craft next-generation immunomodulatory therapies.  
 
 ---
 
-## **Join Our Team!**  
+#3# **Join Our Team!**  
 Are you a curious student or researcher with a background in **chemical engineering, materials science, mechanical engineering, or biology**? Join us in solving puzzles at the frontier of regenerative medicine!  
 
 **Reach out to Dr. Ramkumar Annamalai** [(Email)](mailto:ramkumar.suny@gmail.com) to explore opportunities.  
-
 ---
-
-## **Funding & Support**  
+#3# **Funding & Support**  
 We gratefully acknowledge support from:  
 - **UB School of Engineering and Applied Sciences**  
 - **Centre for Clinical and Translational Sciences**  
 - **National Institutes of Health (NIAMS)**  
 - **National Institutes of Health (NIGMS)**  
-
 ---
-
 *Inspiring Healing. Engineering Hope.*  
 **Let’s build the future of regenerative medicine—one discovery at a time.**  
-
 ---
-
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NIGMS.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ota.png" style="width: 180px">
