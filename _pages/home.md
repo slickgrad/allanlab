@@ -92,7 +92,7 @@ At the TERM Lab, we explore the interplay between *mechanobiology*, *immunology*
 We partner with experts across **Medicine, Pharmacy, Dentistry, Engineering, and Arts & Sciences** to:  
 - Decode inflammation in disease and aging.  
 - Craft next-generation immunomodulatory therapies.  
----
+
 ### **Join Our Team!**  
 Are you a curious student or researcher with a background in **chemical engineering, materials science, mechanical engineering, or biology**? Join us in solving puzzles at the frontier of regenerative medicine!  
 **Reach out to Dr. Ramkumar Annamalai [(Email)](mailto:ramkumar.suny@gmail.com) to explore opportunities.**
@@ -104,10 +104,9 @@ We gratefully acknowledge support from:
 - **National Institutes of Health (NIAMS)**  
 - **National Institutes of Health (NIGMS)**
 - **Orthopedic Trauma Association (OTA)**
----
+
 *Inspiring Healing. Engineering Hope.*  
 **Let’s build the future of regenerative medicine—one discovery at a time.**  
----
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NIGMS.jpg" style="width: 110px">
