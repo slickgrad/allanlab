@@ -103,6 +103,7 @@ We gratefully acknowledge support from:
 - **Centre for Clinical and Translational Sciences**  
 - **National Institutes of Health (NIAMS)**  
 - **National Institutes of Health (NIGMS)**
+- **Orthopedic Trauma Association (OTA)**
 ---
 *Inspiring Healing. Engineering Hope.*  
 **Let’s build the future of regenerative medicine—one discovery at a time.**  
