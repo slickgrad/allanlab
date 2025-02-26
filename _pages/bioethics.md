@@ -1,9 +1,9 @@
 ---
-title: "The Bioethics Forum"
-layout: textlay
-excerpt: "The Bioethics Forum"
+title: "Teaching"
+layout: post
+excerpt: "Teaching"
 sitemap: false
-permalink: /bioethics.html
+permalink: /teaching.html
 ---
 
 ## Highlights
