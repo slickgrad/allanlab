@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-layout: teaching
+layout: post
 excerpt: "Academic Instruction and Guest Lectures"
 sitemap: false
 permalink: /teaching.html
