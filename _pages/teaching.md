@@ -9,14 +9,13 @@ permalink: /teaching.html
 ## Core Course Instruction
 
 #### **Biomedical Systems Engineering (BE 406)**  
-<small class="text-muted" style="float: right;">Spring 2024–Present</small>  
+<small class="text-muted" style="float: right;">Spring 2022–Present</small>  
 *State University of New York at Buffalo*  
-> Foundational course in quantitative modeling of cellular processes, emphasizing systems engineering approaches to molecular biology challenges.### Biomaterials and Immune Response (BE 500)
-
+> Foundational course in quantitative modeling of cellular processes, emphasizing systems engineering approaches to molecular biology challenges.
+#### **Biomaterials and Immune Response (BE 500)**
 <small class="text-muted" style="float: right;">Fall 2023–Present</small>  
 *State University of New York at Buffalo*  
 Comprehensive study of biological and synthetic materials interfacing with immune systems, focusing on functional performance in physiological environments.
-
 ### **Biomaterial Science & Engineering (BME 661)**  
 <small class="text-muted" style="float: right;">2019–2022</small>  
 *University of Kentucky*  
