@@ -1,3 +1,22 @@
+- title: "ISubstrate curvature influences cytoskeletal rearrangement and modulates macrophage phenotype"
+  image: publist14.jpg
+  description: This study investigates how substrate curvature impacts macrophage cytoskeletal dynamics, gene expression, and immunophenotype through mechanosensitive pathways.
+  authors: Sovar, Patrick, and Annamalai RT
+  link:
+    url: https://doi.org/10.3389/fimmu.2024.1478464
+    display:  Front Immunol. 2025 Jan 6:15:1478464.
+  highlight: 1
+  news2:
+
+- title: "Biomechanical Stimulation of Muscle Constructs Influences Phenotype of Bone Constructs by Modulating Myokine Secretion"
+  image: publist13.jpg
+  description:  This work developed an in vitro model to elucidate the effects of mechanical strain on myokine secretion and its impact on bone metabolism decoupled from physical stimuli.
+  authors: HS Kumar, E Barnett, J Fowlkes, Eva Kalaitzoglou, and Annamalai RT
+  link:
+    url: https://doi.org/10.1002/jbm4.10804
+    display:  JBMR Plus. 2023 Aug 15;7(11):e10804. 
+  highlight: 1
+  news2:
 
 - title: "Injectable nanoporous microgels generate vascularized constructs and support bone regeneration in critical-sized defects"
   image: publist12.jpg
