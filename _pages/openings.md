@@ -1,8 +1,8 @@
 ---
 layout: post
-excerpt: "Openings"
+excerpt: "positions"
 sitemap: false
-permalink: /vacancies
+permalink: /positions
 ---
 #### **We Want Trailblazers!**  
 *If you eat, sleep, and breathe biomedical innovation – let’s make magic happen.*  
