@@ -8,7 +8,7 @@ permalink: /teaching.html
 
 ## Core Course Instruction
 
-### **Biomaterials and Immune Response (BE 500)**  
+### Biomaterials and Immune Response (BE 500)
 <small class="text-muted" style="float: right;">Fall 2023–Present</small>  
 *State University of New York at Buffalo*  
 > Comprehensive study of biological and synthetic materials interfacing with immune systems, focusing on functional performance in physiological environments.
