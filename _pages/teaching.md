@@ -13,25 +13,21 @@ permalink: /teaching.html
 > Foundational course in quantitative modeling of cellular processes, emphasizing systems engineering approaches to molecular biology challenges.
 
 #### **Biomaterials and Immune Response (BE 500)**
-<small class="text-muted" style="float: right;">Fall 2023–Present</small>  
-*State University of New York at Buffalo*  
-Comprehensive study of biological and synthetic materials interfacing with immune systems, focusing on functional performance in physiological environments.
+*State University of New York at Buffalo*  <small class="text-muted" style="float: right;">Fall 2023–Present</small>  
+> Comprehensive study of biological and synthetic materials interfacing with immune systems, focusing on functional performance in physiological environments.
 
 #### **Biomaterial Science & Engineering (BME 661)**  
-<small class="text-muted" style="float: right;">2019–2022</small>  
-*University of Kentucky*  
+*University of Kentucky*  <small class="text-muted" style="float: right;">2019–2022</small>  
 > Advanced examination of functional biomaterials with design projects in tissue/organ fabrication. Featured case studies in translational medical applications.
 
 ## Selected Previous Courses
 #### **Introduction to Biomaterials (BME 488)**  
-<small class="text-muted" style="float: right;">2020–2022</small>  
-*University of Kentucky*  
+*University of Kentucky*  <small class="text-muted" style="float: right;">2020–2022</small>
 > Structural and functional analysis of materials for orthopedic, soft tissue, and cardiovascular applications.
 
 ## Guest Lectures & Collaborative Teaching
 #### **Oral Biology (OBI 651)**  
-<small class="text-muted" style="float: right;">2020–2023</small>  
-*University of Kentucky*  
+*University of Kentucky*  <small class="text-muted" style="float: right;">2020–2023</small>  
 > Specialized modules on intraoral drug delivery systems and biomaterial-tissue interactions.
 
 #### **Tissue Engineering & Methods (BME 4803)**  
