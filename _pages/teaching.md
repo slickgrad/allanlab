@@ -31,8 +31,7 @@ permalink: /teaching.html
 > Specialized modules on intraoral drug delivery systems and biomaterial-tissue interactions.
 
 #### **Tissue Engineering & Methods (BME 4803)**  
-<small class="text-muted" style="float: right;">2013–2014</small>  
-*Lawrence Technological University*  
+*Lawrence Technological University*  <small class="text-muted" style="float: right;">2013–2014</small>  
 > Technical instruction in 3D culture systems and perfusion bioreactor design for modular tissue engineering.
 
 ## Historical Course Contributions
