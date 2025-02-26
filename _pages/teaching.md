@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-layout: post
+layout: teaching
 excerpt: "Teaching"
 sitemap: false
 permalink: /teaching.html
