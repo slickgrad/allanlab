@@ -1,12 +1,12 @@
 ---
-title: "Teaching"
+title:
 layout: post
 excerpt: "Academic Instruction and Guest Lectures"
 sitemap: false
 permalink: /teaching.html
 ---
 
-## Core Course Instruction
+### Core Course Instruction
 
 #### **Biomedical Systems Engineering (BE 406)**  
 *State University of New York at Buffalo* <small class="text-muted" style="float: right;">Spring 2022–Present</small>
@@ -20,7 +20,7 @@ permalink: /teaching.html
 *University of Kentucky*  <small class="text-muted" style="float: right;">2019–2022</small>  
 > Advanced examination of functional biomaterials with design projects in tissue/organ fabrication. Featured case studies in translational medical applications.
 
-## Selected Previous Courses
+### Selected Previous Courses
 #### **Introduction to Biomaterials (BME 488)**  
 *University of Kentucky*  <small class="text-muted" style="float: right;">2020–2022</small>
 > Structural and functional analysis of materials for orthopedic, soft tissue, and cardiovascular applications.
@@ -34,7 +34,7 @@ permalink: /teaching.html
 *Lawrence Technological University*  <small class="text-muted" style="float: right;">2013–2014</small>  
 > Technical instruction in 3D culture systems and perfusion bioreactor design for modular tissue engineering.
 
-## Historical Course Contributions
+### Historical Course Contributions
 #### **University of Michigan** (2015–2019)
 - **BME 474: Introduction to Tissue Engineering**  
   Vascularization strategies and mass transport phenomena
